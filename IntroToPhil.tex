@@ -1,0 +1,71 @@
+\documentclass[openany,oneside,11pt]{memoir}
+\setstocksize{8in}{5in}
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settrims{0pt}{0pt}
+\settypeblocksize{*}{300pt}{1.62}
+\setlrmargins{*}{*}{1}
+\setulmargins{.6in}{*}{*}
+\setheaderspaces{*}{*}{1}
+\checkandfixthelayout
+\RequirePackage[a-1b]{pdfx}
+
+\usepackage{intro}
+\usepackage{intro-style}
+\usepackage{marginnote}
+\usepackage{chronology}
+\usepackage[american]{babel}
+\usepackage{csquotes}
+\usepackage[style=mla,autocite=footnote]{biblatex}
+\addbibresource{bibliography.bib}
+\defbibheading{bibliography}{\chapter*{Bibliography}} 
+\bibliography{bibliography.bib}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{wrapfig}
+\usepackage{xcolor}
+\usepackage{pagecolor}
+%\usepackage[tagged]{accessibility}
+\definecolor{philgreen}{RGB}{0,143,17}
+\definecolor{lyallpink}{RGB}{222,31,149}
+\colorlet{leadbeater}{philgreen}
+\colorlet{dkleadbeater}{philgreen!80!black}
+\colorlet{ltleadbeater}{philgreen!50}
+\colorlet{vltleadbeater}{philgreen!3}
+\DeclareUnicodeCharacter{FE01}{}
+\usepackage{afterpage}
+%\usepackage[tagged]{accessibility}
+\begin{document}
+
+\midsloppy
+
+% Cover Page
+\thispagestyle{empty}
+\pagecolor{philgreen}\afterpage{\nopagecolor}
+\begin{textblock*}{\stockwidth}(0in,3.5in)
+\end{textblock*}
+\begin{textblock*}{0in}(0in,0in)
+  \noindent\hfill
+  \begin{minipage}[b][\stockheight][s]{.95\stockwidth}
+    \begin{center}
+      \vspace*{1.5cm}
+      %\hfill
+      \sffamily\fontsize{66pt}{0pt}\selectfont
+      \color{black}
+      \textbf{Questions We Have}%
+      \vskip0.5cm             
+      \color{white}
+      \sffamily
+      \fontsize{20pt}{22pt}\selectfont
+      \textbf{An Introduction to Philosophy} 
+      \end{center}
+\begin{raggedleft}
+      \fontsize{11pt}{14pt}\selectfont
+      \color{black}
+     \textbf{By Davis A. Smith}\\
+    \end{raggedleft}
+  \end{minipage}
+  \hspace*{1cm}
+\end{textblock*}
+\ 
+\newpage
+\input{content}
+\end{document}

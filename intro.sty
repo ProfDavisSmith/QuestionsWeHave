@@ -1,0 +1,264 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{intro}
+
+\RequirePackage{amssymb,amsmath,pifont,rotating}
+\usepackage[cal=boondoxo]{mathalfa}
+
+% The original forallx.sty was written in 2005
+% Comments marked "TB" are additions by Tim Button in September 2012
+
+%    ****************************************
+%    *            LOGICAL SYMBOLS           *
+%    ****************************************
+%
+% There are, of course, many different symbols used for the truth-functional
+% connectives. In order to make the book adaptable, the symbols are defined
+% here in the style sheet and these commands are used throughout the book.
+% To change conjunction from the ampersand to the carat, for instance,
+% change the definition of \eand from ~\&~ to \wedge. To change negation from
+% the hoe to the swung dash, change \enot from \neg to {\sim}. Other examples
+% are given below.
+%
+\let\oldtherefore\therefore
+\def\therefore{\ensuremath{\oldtherefore}}
+% disjunction
+\def\eor{\ensuremath{\vee}}
+% conjunction: 
+% {\,^{_{_{_{_{\mbox{\footnotesize\textbullet}}}}}}} gives the dot
+\def\eand{\ensuremath{\wedge}}
+% conditional: \supset gives the horseshoe
+\def\eif{\ensuremath{\rightarrow}}
+% biconditional: \equiv gives the triple bar
+\def\eiff{\ensuremath{\leftrightarrow}}
+% negation: {\sim} gives the swung dash 
+\def\enot{\ensuremath{\neg}}
+\def\ered{\ensuremath{\bot}}% TB: added to give an absurdity sign
+\newcommand*{\ebox}{\ensuremath{\Box}}
+\def\ediamond{\ensuremath{\Diamond}}
+\def\maththe{\rotatebox[origin=c]{180}{$\iota$}} % TB: added to give definite description operator
+\def\proves{\ensuremath{\vdash}}
+\def\entails{\ensuremath{\vDash}}
+\def\nproves{\ensuremath{\nvdash}}
+\def\nentails{\ensuremath{\nvDash}}
+
+% modal logic systems
+\def\mlK{\ensuremath{\mathbf{K}}}
+\def\mlT{\ensuremath{\mathbf{T}}}
+\def\mlSfour{\ensuremath{\mathbf{S4}}}
+\def\mlSfive{\ensuremath{\mathbf{S5}}}
+\def\E{$\exists$}
+% args -- format a list of arguments separated by commas without commas
+
+\newcommand*{\args}[1]{%
+  \let\@argsep\@argsepinit
+  \@for\@arg:=#1\do{%
+    \@argsep\@arg}%
+}
+
+\def\@argsepinit{\let\@argsep\argsep}
+
+\newcommand{\argsep}{}
+
+\newcommand{\atom}[2]{\mathord{#1}#2}
+
+%    ****************************************
+%    *       SYMBOLS AND SCRIPTY BITS       *
+%    ****************************************
+% equivalent to commenting something out, but usable on multiple lines
+\providecommand{\nix}[1]{}
+
+\newcommand*{\script}[1]{\ensuremath{\mathcal{#1}}}
+\newcommand*{\metav}[1]{\ensuremath{\mathcal{#1}}}
+
+% create a blank
+\newcommand*{\blank}{\underline{\hspace*{2.5em}}}
+\newcommand*{\gap}[1]{\blank$_{#1}$} % TB: used for keys, to avoid use/mention confusion
+
+% These are included for discussing formal semantics in predicate logic.
+\newcommand*{\model}[1]{\ensuremath{\mathbb{#1}}}
+\newcommand*{\extension}[1]{\ensuremath{\mbox{extension}(#1)}}
+\newcommand*{\referent}[1]{\ensuremath{\mbox{referent}(#1)}}
+  % I personally dislike the default LaTeX angle brackets. I think that
+  % they are too narrow. If you want to use them, though, you can
+  % replace < and > in the commands below with \langle and \rangle
+\newcommand*{\openntuple}{\langle}
+\newcommand*{\closentuple}{\rangle}
+\newcommand*{\ntuple}[1]{\ensuremath{\mathopen{\openntuple}}#1\ensuremath{\mathclose{\closentuple}}} 
+% definitions
+\newcommand*{\define}[1]{\textsc{\lowercase{\color{leadbeater}#1}}}
+
+%    ****************************************
+%    *          LIST  ENVIRONMENTS          *
+%    ****************************************
+% The {earg} environment is used for arguments and example sentences.
+% The {ekey} environment is used for symbolization keys.
+\newcounter{eargnum}[section]
+\newcounter{OLDeargnum}[section]
+\newenvironment{earg}%
+{\begin{list}{1.}{\usecounter{eargnum}\itemsep=0pt \parsep=0pt}}%
+{\setcounter{OLDeargnum}{\arabic{eargnum}}\end{list}}
+
+\newenvironment{ebullet}% TB: added to give a nice bulleted enivronment
+{\begin{list}{\textbullet}{\itemsep=0pt \parsep=0pt}}%
+{\end{list}}
+
+\newcommand{\ekeylabel}[1]{{\makebox[8ex][r]{\ensuremath{ #1}:}}}
+\newenvironment{ekey}{\begin{list}{}{\renewcommand{\makelabel}{\ekeylabel} \itemsep=0pt \parsep=0pt}}{\end{list}}
+
+%    ****************************************
+%    *             TRUTH TABLES             *
+%    ****************************************
+
+% This facilitates the typesetting of truth tables by
+% effectively eliminating the intercolumn space.
+% This allows truth tables with the Ts and Fs immediately
+% below arbitrary connectives.
+% An example follows:
+%\begin{center}
+%\begin{tabular}{c|c|@{\TTon}*{5}{c}@{\TToff}}
+%$A$&$B$&$(A$&\eand&$B)$&\eif&A\\
+%\hline
+% T & T &    &  T  &    &  T & \\
+% T & F &    &  F  &    &  T & \\
+% F & T &    &  F  &    &  T & \\
+% F & F &    &  T  &    &  T &
+%\end{tabular}
+%\end{center}
+%\newcommand*{\TTon}{\hspace{1.5em}\extracolsep{-1em}}
+%\newcommand*{\TToff}{\extracolsep{-1em}\hspace{.3em}}
+
+\RequirePackage{multicol,array}
+
+% Moving to Memoir breaks Magnus's elegant macro
+% In the preceding column definition, I would offer instead:
+%\begin{tabular}{c c | d e e e f}
+% d for left-most columns, e for middle ones, f for right-most ones. The ensuing spacing is ok.
+\newcolumntype{d}{ c@{\extracolsep{0.1em}}}
+\newcolumntype{e}{@{\extracolsep{0.1em}}c@{\extracolsep{0.1em}}}
+\newcolumntype{f}{@{\extracolsep{0.1em}}c }
+\newcommand*{\TTbf}[1]{\textbf{#1}}
+
+
+%    ****************************************
+%    *                PROOFS                *
+%    ****************************************
+
+
+% I keep mixing up the \ce and \ae commands, so I define a less ambiguous
+% alternate set of commands
+
+\newcommand*{\notI}{\ni}
+\newcommand*{\notE}{\ne}
+\newcommand*{\iffI}{\bi}
+\newcommand*{\iffE}{\be}
+\newcommand*{\ifI}{\ci}
+\newcommand*{\ifE}{\ce}
+\newcommand*{\andI}{\ai}
+\newcommand*{\andE}{\ae}
+\newcommand*{\orI}{\oi}
+\newcommand*{\orE}{\oe}
+\newcommand*{\forallI}{\Ai}
+\newcommand*{\forallE}{\Ae}
+\newcommand*{\existsI}{\Ei}
+\newcommand*{\existsE}{\Ee}
+
+% a command for indicating the goal in a proof or subproof
+\newcommand*{\want}[1]{\by{want \ensuremath{#1}}{}}
+% an environment that separates the proof from surrounding paragraphs
+\newenvironment{fitchproof}
+	{\begin{list}{}{\setlength{\leftmargin}{0pt}}
+		\item$\begin{nd}}
+	{\end{nd}$\end{list}}
+
+% patch nd*by, nd*init from fitch.sty
+
+{\chardef\x=\catcode`\*
+\catcode`\*=11
+\global\let\nd*astcode\x}
+\catcode`\*=11
+\def\nd*by#1#2{\ifx\nd*x#2\nd*x\gdef\nd*byt{\mbox{#1}}\else\gdef\nd*byt{\mbox{#1 \ndref{#2}}}\fi}
+\def\nd*init{%
+  \let\open\nd*open%
+  \let\close\nd*close%
+  \let\hypo\nd*hypo%
+  \let\have\nd*have%
+  \let\hypocont\nd*hypocont%
+  \let\havecont\nd*havecont%
+  \let\by\nd*by%
+  \let\guard\nd*guard%
+  \def\bi{\by{{\eiff}I}}%
+  \def\be{\by{{\eiff}E}}%
+  \def\ci{\by{{\eif}I}}%
+  \def\ce{\by{{\eif}E}}%
+  \def\Ai{\by{$\forall$I}}%
+  \def\Ae{\by{$\forall$E}}%
+  \def\Ei{\by{$\exists$I}}%
+  \def\Ee{\by{$\exists$E}}%
+  \def\ae{\by{{\eand}E}}%
+  \def\ai{\by{{\eand}I}}%
+  \def\oi{\by{{\eor}I}}%
+  \def\oe{\by{{\eor}E}}%
+  \def\ni{\by{{\enot}I}}%
+  \def\ne{\by{{\enot}E}}%
+  \def\ri{\by{{\enot}E}}% RZ: this is now \enot E
+  \def\re{\by{X}}% RZ: this is now X (explosion)
+  \def\ii{\by{$=$I}}%
+  \def\ie{\by{$=$E}}%
+  \def\tnd{\by{LEM}}% RZ: Law of excluded middle
+  \def\ip{\by{IP}}% RZ: indirect proof
+  \def\dn{\by{DN}}% TB: double negation elimination (derived rule)
+  \def\comm{\by{COMM}}%Commutativity
+  \def\mt{\by{MT}}% TB: modus tollens (derived rule)
+  \def\ds{\by{DS}}% TB: disjunctive syllogism (a derived rule in Cambridge version)
+  \def\dem{\by{DeM}}% TB: De Morgan rule (derived rule)
+  \def\dil{\by{DIL}}%Constructive Dilemma
+  \def\qn{\by{QN}}% TB: conversion of quantifiers (derived rule)
+  \def\boxi{\by{{\ebox}I}}%
+  \def\boxe{\by{{\ebox}E}}%
+  \def\boxni{\by{{\ebox}{\enot}I}}%
+  \def\boxci{\by{{\ebox}{\eif}I}}% 
+  \def\posi{\by{{\ediamond}I}}%
+ \def\mc{\by{MC}}%Material Conditional
+  \def\mn{\by{MN}}%Modal Negation
+  \def\hs{\by{HS}}%Hypothetical Syllogism
+  \def\bcx{\by{{\eiff}ex}}%Biconditional Exchange
+  \def\diadf{\by{Def{\ediamond}}}%
+  \def\rf{\by{RF}}%
+  \def\tr{\by{TR}}%
+  \def\rfour{\by{R4}}%
+  \def\rfive{\by{R5}}%
+  \def\sfive{\by{S5}}%
+  \def\ellipsesline{\have[ ]{}{\vdots}}%
+  \nddim{4.5ex}{3.5ex}{1.5ex}{.7em}{1em}{.5em}{1.5em}{.2mm}
+  }
+\catcode`\*=\nd*astcode
+
+%    ****************************************
+%    *            DIAGRAMS IN TIKZ           *
+%    ****************************************
+% TB: I use diagrams in a few places, always using Tikz.
+%   A. To illustrate an argument for the truth table of the material conditional
+%   B. To draw graphs illustrating small finite interpretations. 
+% All these drawings are done using tikz
+\usepackage{tikz}
+\usetikzlibrary{arrows,arrows.meta,positioning,shapes,shapes.gates.logic.US,calc} 
+
+\tikzset{phantom_shape/.style={thick, fill=black!0, minimum width=30pt, minimum height=30pt}, % TB: renders the shape invisible
+		grey_shape/.style={thick, fill=black!20, draw, minimum width=30pt, minimum height=30pt}, % TB: renders a light grey shape with a black outline
+		white_shape/.style={thick, fill=black!0, draw, minimum width=30pt, minimum height=30pt} % TB: renders a white shape with a black outline
+		}
+
+\tikzset{
+modal/.style={>=stealth',shorten >=1pt,shorten <=1pt,auto,node distance=1.5cm,
+semithick},
+world/.style={circle,draw,minimum size=0.5cm,fill=lyallpink!15},
+point/.style={circle,draw,inner sep=0.5mm,fill=black},
+reflexive above/.style={->,loop,looseness=7,in=120,out=60},
+reflexive below/.style={->,loop,looseness=7,in=240,out=300},
+reflexive left/.style={->,loop,looseness=7,in=150,out=210},
+reflexive right/.style={->,loop,looseness=7,in=30,out=330}
+}
+
+
+\IfFileExists{forallxyyc-local.sty}{\usepackage{forallxyyc-local}}{}
+

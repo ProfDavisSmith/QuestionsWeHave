@@ -1,0 +1,504 @@
+\glsdefs@newdocentry{dialectic}%
+{%
+name={dialectic},%
+sort={dialectic},%
+type={main},%
+first={dialectic},%
+firstplural={dialectics},%
+text={dialectic},%
+plural={dialectics},%
+description={the art of investigating and determining the truth of some stance or opinion},%
+descriptionplural={the art of investigating and determining the truth of some stance or opinion},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{argument}%
+{%
+name={argument},%
+sort={argument},%
+type={main},%
+first={argument},%
+firstplural={arguments},%
+text={argument},%
+plural={arguments},%
+description={A connected series of sentences, divided into \gls {premise}s and \gls {conclusion}},%
+descriptionplural={A connected series of sentences, divided into \gls {premise}s and \gls {conclusion}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{premise}%
+{%
+name={premise},%
+sort={premise},%
+type={main},%
+first={premise},%
+firstplural={premises},%
+text={premise},%
+plural={premises},%
+description={A sentence in an \gls {argument} other than the \gls {conclusion}, often indicated with a premise indicator},%
+descriptionplural={A sentence in an \gls {argument} other than the \gls {conclusion}, often indicated with a premise indicator},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{conclusion}%
+{%
+name={conclusion},%
+sort={conclusion},%
+type={main},%
+first={conclusion},%
+firstplural={conclusions},%
+text={conclusion},%
+plural={conclusions},%
+description={The sentence which an argument is intended to support or prove, often indicated with a conclusion indicator.},%
+descriptionplural={The sentence which an argument is intended to support or prove, often indicated with a conclusion indicator.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{valid}%
+{%
+name={valid},%
+sort={valid},%
+type={main},%
+first={valid},%
+firstplural={valids},%
+text={valid},%
+plural={valids},%
+description={A property of arguments where the truth of the premises guarantee the truth of the conclusion; i.e. it is impossible for the premises to be true and the conclusion false},%
+descriptionplural={A property of arguments where the truth of the premises guarantee the truth of the conclusion; i.e. it is impossible for the premises to be true and the conclusion false},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{sound}%
+{%
+name={sound},%
+sort={sound},%
+type={main},%
+first={sound},%
+firstplural={sounds},%
+text={sound},%
+plural={sounds},%
+description={A property of arguments that holds if the argument is valid and has all true premises},%
+descriptionplural={A property of arguments that holds if the argument is valid and has all true premises},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{deductive argument}%
+{%
+name={deductive argument},%
+sort={deductive argument},%
+type={main},%
+first={deductive argument},%
+firstplural={deductive arguments},%
+text={deductive argument},%
+plural={deductive arguments},%
+description={An argument such that the intent behind it is to guarantee the conclusion. There is no ‘wiggle room'. In general, deductive arguments move from broad general principles and to more particular instances.},%
+descriptionplural={An argument such that the intent behind it is to guarantee the conclusion. There is no ‘wiggle room'. In general, deductive arguments move from broad general principles and to more particular instances.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{inductive argument}%
+{%
+name={inductive argument},%
+sort={inductive argument},%
+type={main},%
+first={inductive argument},%
+firstplural={inductive arguments},%
+text={inductive argument},%
+plural={inductive arguments},%
+description={An argument such that the intent behind it is \emph {merely} to make the conclusion more likely, assuming the truth of the premises. There is some ‘wiggle room'. In general, inductive arguments move from a collection of particular instances and then use those to support the truth of some general principle},%
+descriptionplural={An argument such that the intent behind it is \emph {merely} to make the conclusion more likely, assuming the truth of the premises. There is some ‘wiggle room'. In general, inductive arguments move from a collection of particular instances and then use those to support the truth of some general principle},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{substance}%
+{%
+name={substance},%
+sort={substance},%
+type={main},%
+first={substance},%
+firstplural={substances},%
+text={substance},%
+plural={substances},%
+description={The thing itself, which has properties and can survive changes in those properties.},%
+descriptionplural={The thing itself, which has properties and can survive changes in those properties.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{substance dualism}%
+{%
+name={substance dualism},%
+sort={substance dualism},%
+type={main},%
+first={substance dualism},%
+firstplural={substance dualisms},%
+text={substance dualism},%
+plural={substance dualisms},%
+description={The stance in that the world consists of two general kinds of substances, in the case of the Mind-Body Problem, these are mental and physical.},%
+descriptionplural={The stance in that the world consists of two general kinds of substances, in the case of the Mind-Body Problem, these are mental and physical.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{epiphenomenalism}%
+{%
+name={epiphenomenalism},%
+sort={epiphenomenalism},%
+type={main},%
+first={epiphenomenalism},%
+firstplural={epiphenomenalisms},%
+text={epiphenomenalism},%
+plural={epiphenomenalisms},%
+description={The stance in that certain physical events can cause mental events and vice versa.},%
+descriptionplural={The stance in that certain physical events can cause mental events and vice versa.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{monism}%
+{%
+name={monism},%
+sort={monism},%
+type={main},%
+first={monism},%
+firstplural={monisms},%
+text={monism},%
+plural={monisms},%
+description={The stance that the world is comprised of only one kind of substance.},%
+descriptionplural={The stance that the world is comprised of only one kind of substance.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{idealism}%
+{%
+name={idealism},%
+sort={idealism},%
+type={main},%
+first={idealism},%
+firstplural={idealisms},%
+text={idealism},%
+plural={idealisms},%
+description={The stance in that the world consists of only one general kind of substance, mental.},%
+descriptionplural={The stance in that the world consists of only one general kind of substance, mental.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{physicalism}%
+{%
+name={physicalism},%
+sort={physicalism},%
+type={main},%
+first={physicalism},%
+firstplural={physicalisms},%
+text={physicalism},%
+plural={physicalisms},%
+description={The stance in that the world consists of only one general kind of substance, physical.},%
+descriptionplural={The stance in that the world consists of only one general kind of substance, physical.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{teleological argument}%
+{%
+name={teleological argument},%
+sort={teleological argument},%
+type={main},%
+first={teleological argument},%
+firstplural={teleological arguments},%
+text={teleological argument},%
+plural={teleological arguments},%
+description={An argument which moves from a seeming purpose, end, or design exhibited by the universe to the claim that there must be a designer of the universe},%
+descriptionplural={An argument which moves from a seeming purpose, end, or design exhibited by the universe to the claim that there must be a designer of the universe},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{cosmological argument}%
+{%
+name={cosmological argument},%
+sort={cosmological argument},%
+type={main},%
+first={cosmological argument},%
+firstplural={cosmological arguments},%
+text={cosmological argument},%
+plural={cosmological arguments},%
+description={An argument which moves from observations of the world around us, more particularly those concerning causation, to the claim that there must have been a first cause},%
+descriptionplural={An argument which moves from observations of the world around us, more particularly those concerning causation, to the claim that there must have been a first cause},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ontology}%
+{%
+name={ontology},%
+sort={ontology},%
+type={main},%
+first={ontology},%
+firstplural={ontologies},%
+text={ontology},%
+plural={ontologies},%
+description={An area of Philosophy which concerns the study of what exists},%
+descriptionplural={An area of Philosophy which concerns the study of what exists},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ontological argument}%
+{%
+name={ontological argument},%
+sort={ontological argument},%
+type={main},%
+first={ontological argument},%
+firstplural={ontological arguments},%
+text={ontological argument},%
+plural={ontological arguments},%
+description={An argument which moves from the properties which an object/thing is purported to have to the claim that the object/thing must exist},%
+descriptionplural={An argument which moves from the properties which an object/thing is purported to have to the claim that the object/thing must exist},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+

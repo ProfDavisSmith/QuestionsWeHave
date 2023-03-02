@@ -1,0 +1,173 @@
+\documentclass[openany,oneside,11pt]{memoir}
+\setstocksize{8in}{5in}
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settrims{0pt}{0pt}
+\settypeblocksize{*}{300pt}{1.62}
+\setlrmargins{*}{*}{1}
+\setulmargins{.6in}{*}{*}
+\setheaderspaces{*}{*}{1}
+\checkandfixthelayout
+\RequirePackage[a-1b]{pdfx}
+
+%\usepackage{intro}
+%\usepackage{intro-style}
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{intro-style}
+
+\def\introversion{Fall 2022}
+\def\introshortversion{F22}
+
+\RequirePackage{hyperref,ifthen,graphicx,xcolor,amssymb}
+\usepackage[numbered]{bookmark} %TB: added for speedy navigation
+\usepackage[toc,style=list]{glossaries}
+%\usepackage{glossaries-extra}
+\makeglossaries
+\usepackage{tabu}
+
+%RZ: typefaces 
+\usepackage{helvet}
+%\usepackage[helvet]{sfmath}
+\usepackage[osf]{Baskervaldx} % oldstyle figures
+\usepackage[bigdelims,baskervaldx]{newtxmath}
+\usepackage{mathastext}
+%RZ: Make sure we have a copyright symbol
+
+\def\copyright{\textcircled{C}}
+
+%RZ: Include git revision info
+
+\usepackage{gitinfo2}
+
+% RZ: TOC widths
+
+\setlength{\cftpartnumwidth}{3em}
+\setlength{\cftchapternumwidth}{2.2em}
+\setlength{\cftsectionnumwidth}{3.3em}
+\setlength{\cftbeforechapterskip}{0pt} %TB: to leave no gap between sections (which LaTeX regards as chapters) in the TOC
+\renewcommand{\cftchapterfont}{\textrm}
+\renewcommand{\cftchapterpagefont}{\textrm}
+
+% Chapter style
+
+\newlength{\barlength}
+\setlength{\barlength}{400pt}
+\makechapterstyle{leadbeater}{%
+  \setlength{\afterchapskip}{40pt}
+  \setlength{\beforechapskip}{50pt}
+    \setlength{\midchapskip}{10pt}
+  \renewcommand*{\afterchapternum}{\par\nobreak\vskip 0pt}
+  \renewcommand*{\chapnamefont}{\fontsize{14pt}{0pt}\selectfont\sffamily\bfseries}
+  \renewcommand*{\chapnumfont}{\fontsize{14pt}{0pt}\selectfont\sffamily\bfseries}
+  \renewcommand*{\chaptitlefont}{\normalfont\fontsize{38pt}{30pt}\selectfont\bfseries\itshape\color{leadbeater}}
+\renewcommand*{\printchaptername}{%
+ \chapnamefont\MakeUppercase{\@chapapp}}
+\renewcommand*{\printchaptertitle}[1]{%
+ \chaptitlefont ##1\\[-\baselineskip]%
+  \hspace*{-20pt}%
+    \smash{\color{leadbeater}\rule{7pt}{\barlength}}}
+}
+
+\renewcommand*{\partnamefont}{\fontsize{24pt}{0pt}\selectfont\sffamily\bfseries}
+\renewcommand*{\partnumfont}{\fontsize{24pt}{0pt}\selectfont\sffamily\bfseries}
+\renewcommand*{\parttitlefont}{\normalfont\fontsize{48pt}{48pt}\selectfont\bfseries\itshape\color{leadbeater}}
+\renewcommand*{\printpartname}{%
+  \partnamefont MODULE}
+
+
+\copypagestyle{leadbeater}{headings}
+
+\chapterstyle{leadbeater}
+
+\makeoddhead{leadbeater}{\small\sffamily\color{leadbeater}\rightmark}{}
+   {\color{leadbeater}\sffamily\bfseries\thepage}
+
+\makeevenhead{leadbeater}{\color{leadbeater}\sffamily\bfseries\thepage}{}
+   {\small\sffamily\color{leadbeater}\leftmark}
+
+\usepackage[font={small,it}]{caption}
+
+\newcounter{dummy}
+\setcounter{dummy}{\year}
+\addtocounter{dummy}{-2000}
+\newcommand*{\bookversion}{%
+	\ifthenelse{\arabic{dummy}<10}{0}{}%
+	\arabic{dummy}%
+	\ifthenelse{\month<10}{0}{}\number\month%
+	\ifthenelse{\day<10}{0}{}\number\day%
+}
+\newcounter{Example}[chapter]
+\newcommand*{\ex}[1]{\refstepcounter{Example}\arabic{Example}.\label{#1}}
+
+\newcounter{ExampleArg}[chapter]
+\newcommand*{\exarg}[1]{\refstepcounter{ExampleArg}\arabic{ExampleArg}.\label{#1}}
+
+\newenvironment{partialmodel}{\par\begin{tabular}{r@{~=~}l}}{\end{tabular}\par}
+% define the bullet for {itemize} lists
+\renewcommand{\labelitemi}{$\triangleright$}
+
+\usepackage[most]{tcolorbox}
+\newcommand{\factoidbox}[1]{\begin{factoidboxe}#1\end{factoidboxe}}
+\newenvironment{factoidboxe}{%
+  \begin{tcolorbox}[%width=.9\textwidth,
+      %      leftright skip=.05\textwidth,
+      sharp corners=downhill,
+      beforeafter skip=.7em,
+      colframe={leadbeater},colback={vltleadbeater}]}{
+\end{tcolorbox}}
+
+
+% \tablefbox{...} is used in certain tables to put a box around the contents of specific table cells without having lines that run the whole length of the table
+\newcommand{\tablefbox}[1]{\multicolumn{1}{|p{10em}|}{#1}}
+
+
+%    ****************************************
+%    *         TABLE OF CONTENTS, ETC.      *
+%    ****************************************
+\renewcommand{\thechapter}{\arabic{chapter}}
+\renewcommand{\thepart}{\Roman{part}}
+\renewcommand{\thesection}{\arabic{chapter}.\arabic{section}}
+
+\setcounter{tocdepth}{0} %TB: only chapters and sections to appear
+
+\setlength{\columnsep}{2em} % Sets 2em space between columns when calling multicol 
+
+\definecolor{darkred}{rgb}{0.5,0,0} % TB: used to color links in red
+\newcommand\myanswer[1]{\textcolor{leadbeater}{#1}} % TB: puts model answers in blue
+
+% TB: information originally in the main body; but it is style information, so I have included it here.
+\hypersetup{pdfinfo={Title={forall x: $R^3$}, Author={Davis A. Smith, P.D. Magnus, Tim Button, J. Rob Loftis, Rob Trueman, Aaron Thomas-Bolduc, Richard Zach}, Subject={An open access introductory textbook in formal logic}, Keywords={truth-functional logic, propositional logic, predicate logic, first-order logic, natural deduction, Fitch}}, %
+  % bookmarks={true}, %
+  bookmarksopen = true,
+	colorlinks={true}, %
+	allcolors={dkleadbeater},
+	pdfdisplaydoctitle={true}}
+\urlstyle{same}
+
+\definecolor{philgreen}{RGB}{0,143,17}
+\definecolor{lyallpink}{RGB}{222,31,149}
+\colorlet{leadbeater}{philgreen}
+\colorlet{dkleadbeater}{philgreen!80!black}
+\colorlet{ltleadbeater}{philgreen!50}
+\colorlet{vltleadbeater}{philgreen!3}
+
+\usepackage{marginnote}
+\usepackage{chronology}
+\usepackage[american]{babel}
+\usepackage{csquotes}
+\usepackage[style=mla,autocite=footnote]{biblatex}
+\addbibresource{bibliography.bib}
+\defbibheading{bibliography}{\chapter*{Bibliography}} 
+\bibliography{bibliography.bib}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{wrapfig}
+\usepackage{xcolor}
+\usepackage{pagecolor}
+\DeclareUnicodeCharacter{FE01}{}
+\usepackage{afterpage}
+\begin{document}
+\setsecnumdepth{part}
+\input{PhysicalismLibertarianism}
+\input{LibertarianismDualism}
+\label{ch.biblio}
+\printbibliography
+\end{document}

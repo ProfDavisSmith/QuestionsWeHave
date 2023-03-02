@@ -1,0 +1,200 @@
+%!TEX root = forallxyyc.tex
+
+% forallxd-style provides layout and style setup for forall x: YYC books
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{intro-style}
+
+\def\introversion{Fall 2022}
+\def\introshortversion{F22}
+
+\RequirePackage{hyperref,ifthen,graphicx,xcolor,amssymb}
+\usepackage[numbered]{bookmark} %TB: added for speedy navigation
+\usepackage[toc,style=list]{glossaries}
+%\usepackage{glossaries-extra}
+\makeglossaries
+\usepackage{tabu}
+
+%RZ: typefaces 
+\usepackage{helvet}
+\usepackage[helvet]{sfmath}
+%\usepackage[osf]{Garamond} % oldstyle figures
+\usepackage[bigdelims,baskervaldx]{newtxmath}
+\usepackage{mathastext}
+%RZ: Make sure we have a copyright symbol
+
+\def\copyright{\textcircled{C}}
+
+%RZ: Include git revision info
+
+\usepackage{gitinfo2}
+
+% RZ: TOC widths
+
+\setlength{\cftpartnumwidth}{3em}
+\setlength{\cftchapternumwidth}{2.2em}
+\setlength{\cftsectionnumwidth}{3.3em}
+\setlength{\cftbeforechapterskip}{0pt} %TB: to leave no gap between sections (which LaTeX regards as chapters) in the TOC
+\renewcommand{\cftchapterfont}{\textrm}
+\renewcommand{\cftchapterpagefont}{\textrm}
+
+% Chapter style
+
+\newlength{\barlength}
+\setlength{\barlength}{400pt}
+\makechapterstyle{leadbeater}{%
+  \setlength{\afterchapskip}{40pt}
+  \setlength{\beforechapskip}{50pt}
+    \setlength{\midchapskip}{10pt}
+  \renewcommand*{\afterchapternum}{\par\nobreak\vskip 0pt}
+  \renewcommand*{\chapnamefont}{\fontsize{14pt}{0pt}\selectfont\sffamily\bfseries}
+  \renewcommand*{\chapnumfont}{\fontsize{14pt}{0pt}\selectfont\sffamily\bfseries}
+  \renewcommand*{\chaptitlefont}{\normalfont\fontsize{48pt}{48pt}\selectfont\bfseries\itshape\color{leadbeater}}
+\renewcommand*{\printchaptername}{%
+ \chapnamefont\MakeUppercase{\@chapapp}}
+\renewcommand*{\printchaptertitle}[1]{%
+ \chaptitlefont ##1\\[-\baselineskip]%
+  \hspace*{-20pt}%
+    \smash{\color{leadbeater}\rule{7pt}{\barlength}}}
+}
+
+\renewcommand*{\partnamefont}{\fontsize{24pt}{0pt}\selectfont\sffamily\bfseries}
+\renewcommand*{\partnumfont}{\fontsize{24pt}{0pt}\selectfont\sffamily\bfseries}
+\renewcommand*{\parttitlefont}{\normalfont\fontsize{48pt}{48pt}\selectfont\bfseries\itshape\color{leadbeater}}
+\renewcommand*{\printpartname}{%
+  \partnamefont MODULE}
+
+
+\copypagestyle{leadbeater}{headings}
+
+\chapterstyle{leadbeater}
+
+\makeoddhead{leadbeater}{\small\sffamily\color{leadbeater}\rightmark}{}
+   {\color{leadbeater}\sffamily\bfseries\thepage}
+
+\makeevenhead{leadbeater}{\color{leadbeater}\sffamily\bfseries\thepage}{}
+   {\small\sffamily\color{leadbeater}\leftmark}
+
+\usepackage[font={small,it}]{caption}
+
+%    ****************************************
+%    *        TITLE AND VERSION DATA        *
+%    ****************************************
+% the title of the book
+\newcommand*{\forallx}{\texttt{forall}\script{x}}
+\newcommand*{\forallxd}{\texttt{forall}\script{x}\texttt{:Pierce}}
+% The version number of the book is a 5 digit integer:
+% the last digit of the year, the month, the day of the month
+\newcounter{dummy}
+\setcounter{dummy}{\year}
+\addtocounter{dummy}{-2000}
+\newcommand*{\bookversion}{%
+	\ifthenelse{\arabic{dummy}<10}{0}{}%
+	\arabic{dummy}%
+	\ifthenelse{\month<10}{0}{}\number\month%
+	\ifthenelse{\day<10}{0}{}\number\day%
+}
+
+% Used in conjunction with {earg}, this handles the numbering and
+% references to example sentences:
+\newcounter{Example}[chapter]
+\newcommand*{\ex}[1]{\refstepcounter{Example}\arabic{Example}.\label{#1}}
+
+% Used in conjunction with {earg}, this handles the numbering and
+% references to example arguments:
+\newcounter{ExampleArg}[chapter]
+\newcommand*{\exarg}[1]{\refstepcounter{ExampleArg}\arabic{ExampleArg}.\label{#1}}
+
+% Used in specifying partial models, this keeps the lines justified so
+% so that the = signs all line up. For example:
+%	\begin{partialmodel}
+%		UD			& \{Duke, Miles\}\\
+%		\extension{B}	& \{Duke\}
+%	\end{partialmodel}
+\newenvironment{partialmodel}{\par\begin{tabular}{r@{~=~}l}}{\end{tabular}\par}
+% define the bullet for {itemize} lists
+\renewcommand{\labelitemi}{$\triangleright$}
+
+% \factoidbox{...} produces an inset paragraph of text with a line around it
+% Neither for lists nor an environment, but it really didn't
+% belong anywhere else.
+\usepackage[most]{tcolorbox}
+\newcommand{\factoidbox}[1]{\begin{factoidboxe}#1\end{factoidboxe}}
+\newenvironment{factoidboxe}{%
+  \begin{tcolorbox}[%width=.9\textwidth,
+      %      leftright skip=.05\textwidth,
+      sharp corners=downhill,
+      beforeafter skip=.7em,
+      colframe={leadbeater},colback={vltleadbeater}]}{
+\end{tcolorbox}}
+
+
+% \tablefbox{...} is used in certain tables to put a box around the contents of specific table cells without having lines that run the whole length of the table
+\newcommand{\tablefbox}[1]{\multicolumn{1}{|p{10em}|}{#1}}
+
+%    ****************************************
+%    *          PRACTICE PROBLEMS           *
+%    ****************************************
+\newcounter{ProbPart}
+\renewcommand{\theProbPart}{\Alph{ProbPart}}
+\renewcommand{\theHProbPart}{\thechapter.\theProbPart}
+% This inserts a heading and resets the counter:
+\newcommand*{\practiceproblems}{
+	\setcounter{ProbPart}{0}\section*{Practice exercises}%
+  \sectionmark{Practice exercises}%
+	\addcontentsline{toc}{section}{Practice exercises}
+}
+% This starts a new section which is automatically numbered:
+\newcommand*{\problempart}{\par\noindent\refstepcounter{ProbPart}\textbf{\Alph{ProbPart}. }}
+% This bullet is used to indicate that solutions appear at the end of
+% the book.
+\newcommand*{\solutions}{} %TB: removed, since I am not including the solutions in the book
+% When solutions are only given for selected problems, the
+% star is placed left of the problem number.
+\newcommand*{\leftsolutions}{\hspace{-2.2em}\makebox[2em][l]{\solutions}}
+
+% This is used at the beginning of a section in the solutions
+% appendix.
+\newcommand*{\solutionsection}[2]{%
+	\textbf{\textsc{Chapter {\ref{#1}} Part {\ref{#2}}}}%
+	\markright{solutions for ch.~\ref{#1}}%
+	\setcounter{countSeq}{0}
+}
+
+% This is used to enumerate things that have a given property.
+% For example: \nextSeq\nextSeq\noSeq\lastSeq are valid.
+% produces   : 1, 2, and 4 are valid.
+\newcounter{countSeq}
+\newcommand*{\nextSeq}{\stepcounter{countSeq}\arabic{countSeq}, }
+\newcommand*{\noSeq}{\stepcounter{countSeq}}
+\newcommand*{\lastSeq}{and \stepcounter{countSeq}\arabic{countSeq} }
+
+% This is used to place (eg) a partial model or proof as an item
+% in a list. Without it, the item tag will be vertically centered next
+% to the model or proof.
+%		--- doesn't actually work yet ---
+\newenvironment{solutioninlist}{}{}%{~\vspace{-1.6em}}{}
+
+
+%    ****************************************
+%    *         TABLE OF CONTENTS, ETC.      *
+%    ****************************************
+\renewcommand{\thechapter}{\arabic{chapter}}
+\renewcommand{\thepart}{\Roman{part}}
+\renewcommand{\thesection}{\arabic{chapter}.\arabic{section}}
+
+\setcounter{tocdepth}{0} %TB: only chapters and sections to appear
+
+\setlength{\columnsep}{2em} % Sets 2em space between columns when calling multicol 
+
+\definecolor{darkred}{rgb}{0.5,0,0} % TB: used to color links in red
+\newcommand\myanswer[1]{\textcolor{leadbeater}{#1}} % TB: puts model answers in blue
+
+% TB: information originally in the main body; but it is style information, so I have included it here.
+\hypersetup{pdfinfo={Title={forall x: $R^3$}, Author={Davis A. Smith, P.D. Magnus, Tim Button, J. Rob Loftis, Rob Trueman, Aaron Thomas-Bolduc, Richard Zach}, Subject={An open access introductory textbook in formal logic}, Keywords={truth-functional logic, propositional logic, predicate logic, first-order logic, natural deduction, Fitch}}, %
+  % bookmarks={true}, %
+  bookmarksopen = true,
+	colorlinks={true}, %
+	allcolors={dkleadbeater},
+	pdfdisplaydoctitle={true}}
+\urlstyle{same}

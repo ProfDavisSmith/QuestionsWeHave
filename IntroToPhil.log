@@ -1,0 +1,3846 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  14 FEB 2023 14:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./IntroToPhil.tex
+(IntroToPhil.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-23>
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memoir.cls
+Document Class: memoir 2022/07/29 v3.7r configurable book, report, article docu
+ment class
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count185
+)
+\onelineskip=\skip47
+\lxvchars=\skip48
+\xlvchars=\skip49
+\@memcnta=\count186
+\c@@memmarkcntra=\count187
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\stockheight=\skip50
+\stockwidth=\skip51
+\trimtop=\skip52
+\trimedge=\skip53
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/memoir\mem11.clo
+File: mem11.clo 2022/07/29 v0.5 memoir class 11pt size option
+)
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count188
+\memPD=\dimen138
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count189
+\c@part=\count190
+\c@chapter=\count191
+\c@section=\count192
+\c@subsection=\count193
+\c@subsubsection=\count194
+\c@paragraph=\count195
+\c@subparagraph=\count196
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count197
+\c@@ppsaveapp=\count198
+\ragrparindent=\dimen139
+\everylistparindent=\dimen140
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
+\@enLab=\toks16
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen141
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count199
+\c@poemline=\count266
+\c@modulo@vs=\count267
+\c@memfvsline=\count268
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen142
+\c@verse=\count269
+\c@chrsinstr=\count270
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count271
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box51
+\extrarowheight=\dimen144
+\NC@list=\toks17
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box52
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen145
+\TX@old@table=\dimen146
+\TX@old@col=\dimen147
+\TX@target=\dimen148
+\TX@delta=\dimen149
+\TX@cols=\count272
+\TX@ftn=\toks18
+)
+\heavyrulewidth=\dimen150
+\lightrulewidth=\dimen151
+\cmidrulewidth=\dimen152
+\belowrulesep=\dimen153
+\belowbottomsep=\dimen154
+\aboverulesep=\dimen155
+\abovetopsep=\dimen156
+\cmidrulesep=\dimen157
+\cmidrulekern=\dimen158
+\defaultaddspace=\dimen159
+\@cmidla=\count273
+\@cmidlb=\count274
+\@aboverulesep=\dimen160
+\@belowrulesep=\dimen161
+\@thisruleclass=\count275
+\@lastruleclass=\count276
+\@thisrulewidth=\dimen162
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count277
+\@linestogo=\count278
+\@cellstogo=\count279
+\@cellsincolumn=\count280
+\crtok=\toks19
+\@mincolumnwidth=\dimen163
+\c@newflo@tctr=\count281
+\mem@margin@floatbox=\box53
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen164
+\c@@contsubnum=\count282
+\m@mscap@capbox=\box54
+\m@mscap@fbox=\box55
+\sidecapsep=\dimen165
+\sidecapwidth=\dimen166
+\m@m@tempdima=\dimen167
+\m@mscapraise=\dimen168
+\sidecapraise=\dimen169
+\m@mscapmainwidth=\dimen170
+\m@mscaplkern=\dimen171
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+LaTeX Info: Redefining \em on input line 7655.
+LaTeX Info: Redefining \emph on input line 7663.
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen172
+\cftbooknumwidth=\dimen173
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen174
+\c@maxsecnumdepth=\count283
+\bibindent=\dimen175
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
+\indexmarkstyle=\toks20
+\@indexbox=\insert252
+\glossarycolsep=\dimen176
+\glossaryrule=\dimen177
+\sideparvshift=\skip162
+\sideins=\insert251
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count284
+\m@m@h=\dimen178
+\m@mipn@skip=\skip171
+\sidefootins=\insert248
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count285
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count286
+\c@pagenoteshadow=\count287
+\mem@pn@lastkern=\skip181
+\every@verbatim=\toks21
+\afterevery@verbatim=\toks22
+\verbatim@line=\toks23
+\tab@position=\count288
+\verbatim@in@stream=\read2
+\verbatimindent=\skip182
+\verbatim@out=\write3
+\bvboxsep=\skip183
+\c@memfbvline=\count289
+\c@bvlinectr=\count290
+\bvnumlength=\skip184
+\fb@frw=\dimen179
+\fb@frh=\dimen180
+\FrameRule=\dimen181
+\FrameSep=\dimen182
+\c@cp@cntr=\count291
+\c@ism@mctr=\count292
+\c@xsm@mctr=\count293
+\c@csm@mctr=\count294
+\c@ksm@mctr=\count295
+\c@xksm@mctr=\count296
+\c@cksm@mctr=\count297
+\c@msm@mctr=\count298
+\c@xmsm@mctr=\count299
+\c@cmsm@mctr=\count300
+\c@bsm@mctr=\count301
+\c@workm@mctr=\count302
+\c@sheetsequence=\count303
+\c@lastsheet=\count304
+\c@lastpage=\count305
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty
+Package: textcase 2022/07/10 v1.03 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
+)
+\c@figure=\count306
+\c@lofdepth=\count307
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count308
+\c@lotdepth=\count309
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+
+******************************************************
+Stock height and width: 578.15999pt by 361.34999pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 578.15999pt by 361.34999pt
+Text height and width: 487.00021pt by 300pt
+Spine and edge margins: 30.67017pt and 30.67982pt
+Upper and lower margins: 43.36243pt and 47.79735pt
+Headheight and headsep: 13.6pt and 14.8851pt
+Footskip: 27.46295pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 16.67982pt
+Sidecapsep and sidecapwidth: 7pt and 57pt
+Sidebarhsep and sidebarwidth: 7pt and 57pt
+Sidebarvsep and sidebartopsep: 13.6pt and 0pt
+Sidebarheight: 539.9202pt
+Sidefoothsep and sidefootwidth: 7pt and 57pt
+Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
+******************************************************
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\pdfx.sty
+Package: pdfx 2019/02/27 v1.6.3 PDF/X and PDF/A support (CVR/HTH/RRM/PS)
+\pdfx@minorversion=\count310
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/everyshi\everyshi.sty
+Package: everyshi 2020/11/18 v4.00 EveryShipout Package
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+){C:/Users/davis/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\l8u-penc.def
+File: l8u-penc.def 2017/06/23 v0.8 Custom LaTeX file, for UTF8 encoded letters 
+and symbols
+LaTeX Info: Composite with undeclared \b in encoding L8U on input line 278.
+)
+\pdfxsafeforxmp@toks=\toks26
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor.
+ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+\pdfx@tmptoks=\toks27
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-06-20 v7.00s Hypertext links for LaTeX
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count311
+)
+\@linkdim=\dimen183
+\Hy@linkcounter=\count312
+\Hy@pagecounter=\count313
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
+) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count314
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `pdfa' set `true' on input line 4045.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4408.
+\c@Hy@tempcnt=\count315
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4746.
+\XeTeXLinkMargin=\dimen184
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count316
+\Field@Width=\dimen185
+\Fld@charsize=\dimen186
+Package hyperref Info: Hyper figures OFF on input line 6024.
+Package hyperref Info: Link nesting OFF on input line 6029.
+Package hyperref Info: Hyper index ON on input line 6032.
+Package hyperref Info: backreferencing OFF on input line 6039.
+Package hyperref Info: Link coloring OFF on input line 6044.
+Package hyperref Info: Link coloring with OCG OFF on input line 6049.
+Package hyperref Info: PDF/A mode ON on input line 6052.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count317
+\c@Item=\count318
+\c@Hfootnote=\count319
+)
+Package hyperref Info: Driver: hpdftex.
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-06-20 v7.00s Hyperref driver for pdfTeX
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count320
+\c@bookmark@seq@number=\count321
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip191
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty
+Package: memhfixc 2021/06/16 v1.19 nameref/hyperref package fixes for memoir cl
+ass
+
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 102.
+\c@memhycontfloat=\count322
+\c@Hpagenote=\count323
+)
+Package hyperref Info: Option `unicode' set `true' on input line 1463.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+Package hyperref Info: Option `psdextra' set `true' on input line 1465.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc-greekbas
+ic.def
+File: puenc-greekbasic.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (
+greek block) (HO)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\psdextra.def
+File: psdextra.def 2022-06-20 v7.00s Hyperref: Additions to PDF string support
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/colorprofiles\colorpr
+ofiles.sty
+Package: colorprofiles 2018/11/01 v1.0.1 color profiles for PDF/X and PDF/A sup
+port
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/colorprofiles\colorpr
+ofiles.tex))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-pdfdoc.d
+ef
+File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\AdobeColorProfiles
+.tex) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\8bit.def
+File: 8bit.def 2008/03/30 v1.1d Input encoding file
+)
+** pdfx: No file IntroToPhil.xmpdata . Metadata will be incomplete!
+<<sRGB.icc>>
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\8bit.def
+File: 8bit.def 2008/03/30 v1.1d Input encoding file
+)
+Package hyperref Info: Option `unicode' set `true' on input line 2411.
+Package hyperref Info: Option `unicode' set `true' on input line 2412.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pdftex\glyphtounicode
+.tex)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\glyphtounicode-cmr
+.tex)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\glyphtounicode-ntx
+.tex) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/xmpincl\xmpincl.sty
+Package: xmpincl 2021/09/22 v2.4 Include XMP data in pdflatex
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\8bit.def
+File: 8bit.def 2008/03/30 v1.1d Input encoding file
+)
+Using XMP template file: pdfa.xmp
+\xmpinclWrite=\write4
+\xmpinclRead=\read3
+\openout4 = `pdfa.xmpi'.
+
+<<pdfa.xmpi>>) (intro.sty
+Package: intro 
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks29
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip192
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks30
+\ex@=\dimen187
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen188
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count324
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count325
+\leftroot@=\count326
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count327
+\DOTSCASE@=\count328
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen189
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count329
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count330
+\dotsspace@=\muskip17
+\c@parentequation=\count331
+\dspbrk@lvl=\count332
+\tag@help=\toks31
+\row@=\count333
+\column@=\count334
+\maxfields@=\count335
+\andhelp@=\toks32
+\eqnshift@=\dimen190
+\alignsep@=\dimen191
+\tagshift@=\dimen192
+\tagwidth@=\dimen193
+\totwidth@=\dimen194
+\lineht@=\dimen195
+\@envbody=\toks33
+\multlinegap=\skip193
+\multlinetaggap=\skip194
+\mathdisplay@stack=\toks34
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen196
+\Gin@req@width=\dimen197
+)
+\c@r@tfl@t=\count336
+\rotFPtop=\skip195
+\rotFPbot=\skip196
+\rot@float@box=\box58
+\rot@mess@toks=\toks35
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/mathalpha\mathalfa.sty)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/mathalpha\mathalpha.sty
+Package: mathalpha 2021/11/18 - 1.143mathalpha (License LPPL) Michael Sharpe
+`mathalpha' v1.143, 2021/11/18, a renaming of mathalfa (msharpe)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks36
+\XKV@tempa@toks=\toks37
+)
+\XKV@depth=\count337
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 554.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  U/BOONDOX-calo/m/n --> U/BOONDOX-calo/b/n on input line
+ 556.
+)
+\c@eargnum=\count338
+\c@OLDeargnum=\count339
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count340
+\mult@box=\box59
+\multicol@leftmargin=\dimen198
+\c@unbalance=\count341
+\c@collectmore=\count342
+\doublecol@number=\count343
+\multicoltolerance=\count344
+\multicolpretolerance=\count345
+\full@width=\dimen199
+\page@free=\dimen256
+\premulticols=\dimen257
+\postmulticols=\dimen258
+\multicolsep=\skip197
+\multicolbaselineskip=\skip198
+\partial@page=\box60
+\last@line=\box61
+\maxbalancingoverflow=\dimen259
+\mult@rightbox=\box62
+\mult@grightbox=\box63
+\mult@firstbox=\box64
+\mult@gfirstbox=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\c@minrows=\count346
+\c@columnbadness=\count347
+\c@finalcolumnbadness=\count348
+\last@try=\dimen260
+\multicolovershoot=\dimen261
+\multicolundershoot=\dimen262
+\mult@nat@firstbox=\box102
+\colbreak@box=\box103
+\mc@col@check@num=\count349
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks38
+\pgfutil@tempdima=\dimen263
+\pgfutil@tempdimb=\dimen264
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box104
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks39
+\pgfkeys@temptoks=\toks40
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks41
+))
+\pgf@x=\dimen265
+\pgf@y=\dimen266
+\pgf@xa=\dimen267
+\pgf@ya=\dimen268
+\pgf@xb=\dimen269
+\pgf@yb=\dimen270
+\pgf@xc=\dimen271
+\pgf@yc=\dimen272
+\pgf@xd=\dimen273
+\pgf@yd=\dimen274
+\w@pgf@writea=\write5
+\r@pgf@reada=\read4
+\c@pgf@counta=\count350
+\c@pgf@countb=\count351
+\c@pgf@countc=\count352
+\c@pgf@countd=\count353
+\t@pgf@toka=\toks42
+\t@pgf@tokb=\toks43
+\t@pgf@tokc=\toks44
+\pgf@sys@id@count=\count354
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count355
+\pgfsyssoftpath@bigbuffer@items=\count356
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen275
+\pgfmath@count=\count357
+\pgfmath@box=\box105
+\pgfmath@toks=\toks45
+\pgfmath@stack@operand=\toks46
+\pgfmath@stack@operation=\toks47
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count358
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen276
+\pgf@picmaxx=\dimen277
+\pgf@picminy=\dimen278
+\pgf@picmaxy=\dimen279
+\pgf@pathminx=\dimen280
+\pgf@pathmaxx=\dimen281
+\pgf@pathminy=\dimen282
+\pgf@pathmaxy=\dimen283
+\pgf@xx=\dimen284
+\pgf@xy=\dimen285
+\pgf@yx=\dimen286
+\pgf@yy=\dimen287
+\pgf@zx=\dimen288
+\pgf@zy=\dimen289
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen290
+\pgf@path@lasty=\dimen291
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen292
+\pgf@shorten@start@additional=\dimen293
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box106
+\pgf@hbox=\box107
+\pgf@layerbox@main=\box108
+\pgf@picture@serial@count=\count359
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen294
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen295
+\pgf@pt@y=\dimen296
+\pgf@pt@temp=\dimen297
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen298
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen299
+\pgf@sys@shading@range@num=\count360
+\pgf@shadingcount=\count361
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box109
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box110
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen300
+\pgf@nodesepend=\dimen301
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen302
+\pgffor@skip=\dimen303
+\pgffor@stack=\toks48
+\pgffor@toks=\toks49
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count362
+\pgfplotmarksize=\dimen304
+)
+\tikz@lastx=\dimen305
+\tikz@lasty=\dimen306
+\tikz@lastxsaved=\dimen307
+\tikz@lastysaved=\dimen308
+\tikz@lastmovetox=\dimen309
+\tikz@lastmovetoy=\dimen310
+\tikzleveldistance=\dimen311
+\tikzsiblingdistance=\dimen312
+\tikz@figbox=\box111
+\tikz@figbox@bg=\box112
+\tikz@tempbox=\box113
+\tikz@tempbox@bg=\box114
+\tikztreelevel=\count363
+\tikznumberofchildren=\count364
+\tikznumberofcurrentchild=\count365
+\tikz@fig@count=\count366
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count367
+\pgfmatrixcurrentcolumn=\count368
+\pgf@matrix@numberofcolumns=\count369
+)
+\tikz@expandcount=\count370
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.code.tex
+File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\arrowsize=\dimen313
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen314
+\pgfarrowlength=\dimen315
+\pgfarrowwidth=\dimen316
+\pgfarrowlinewidth=\dimen317
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.callouts.code.tex))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodepartlowerbox=\box115
+\pgfnodeparttwobox=\box116
+\pgfnodepartthreebox=\box117
+\pgfnodepartfourbox=\box118
+\pgfnodeparttwentybox=\box119
+\pgfnodepartnineteenbox=\box120
+\pgfnodeparteighteenbox=\box121
+\pgfnodepartseventeenbox=\box122
+\pgfnodepartsixteenbox=\box123
+\pgfnodepartfifteenbox=\box124
+\pgfnodepartfourteenbox=\box125
+\pgfnodepartthirteenbox=\box126
+\pgfnodeparttwelvebox=\box127
+\pgfnodepartelevenbox=\box128
+\pgfnodeparttenbox=\box129
+\pgfnodepartninebox=\box130
+\pgfnodeparteightbox=\box131
+\pgfnodepartsevenbox=\box132
+\pgfnodepartsixbox=\box133
+\pgfnodepartfivebox=\box134
+)))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.gates.logic.US.code.tex
+File: tikzlibraryshapes.gates.logic.US.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes/
+circuits\pgflibraryshapes.gates.logic.US.code.tex
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes/
+circuits\pgflibraryshapes.gates.logic.code.tex)))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (intro-style.sty
+Package: intro-style 
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count371
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
+ies.sty
+Package: glossaries 2021/11/01 v4.49 (NLCT)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2021/10/15 v2.07 (NLCT)
+\@glsmfirst=\toks50
+\@glsmrest=\toks51
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
+sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count372
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-fp.st
+y
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count373
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count374
+\FP@xia=\count375
+\FP@xib=\count376
+\FP@xfa=\count377
+\FP@xfb=\count378
+\FP@rega=\count379
+\FP@regb=\count380
+\FP@regs=\count381
+\FP@times=\count382
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count383
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks52
+\@dtl@tmpcount=\count384
+\dtl@tmplength=\skip199
+\dtl@sortresult=\count385
+\@dtl@numgrpsepcount=\count386
+\@dtl@datatype=\count387
+\dtl@codeA=\count388
+\dtl@codeB=\count389
+\@dtl@foreach@level=\count390
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
+ies-compatible-307.sty
+Package: glossaries-compatible-307 2021/11/01 v4.49 (NLCT)
+)
+\gls@level=\count391
+\@gls@tmpb=\toks53
+\gls@tmplen=\skip256
+
+
+Package glossaries Warning: Overriding \printglossary on input line 6052.
+
+
+Package glossaries Warning: Overriding `theglossary' environment on input line 
+6658.
+
+\glskeylisttok=\toks54
+\glslabeltok=\toks55
+\glsshorttok=\toks56
+\glslongtok=\toks57
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-hypernav.sty
+Package: glossary-hypernav 2021/11/01 v4.49 (NLCT)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-list.sty
+Package: glossary-list 2021/11/01 v4.49 (NLCT)
+\glslistdottedwidth=\skip257
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-long.sty
+Package: glossary-long 2021/11/01 v4.49 (NLCT)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip258
+\LTright=\skip259
+\LTpre=\skip260
+\LTpost=\skip261
+\LTchunksize=\count392
+\LTcapwidth=\dimen318
+\LT@head=\box135
+\LT@firsthead=\box136
+\LT@foot=\box137
+\LT@lastfoot=\box138
+\LT@gbox=\box139
+\LT@cols=\count393
+\LT@rows=\count394
+\c@LT@tables=\count395
+\c@LT@chunks=\count396
+\LT@p@ftn=\toks58
+)
+\glsdescwidth=\skip262
+\glspagelistwidth=\skip263
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-super.sty
+Package: glossary-super 2021/11/01 v4.49 (NLCT)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
+ar.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count397
+\ST@wd=\dimen319
+\ST@rightskip=\skip264
+\ST@leftskip=\skip265
+\ST@parfillskip=\skip266
+\ST@pageleft=\dimen320
+\ST@headht=\dimen321
+\ST@tailht=\dimen322
+\ST@pagesofar=\dimen323
+\ST@pboxht=\dimen324
+\ST@lineht=\dimen325
+\ST@prevht=\dimen326
+\ST@toadd=\dimen327
+\ST@dimen=\dimen328
+\ST@pbox=\box140
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-tree.sty
+Package: glossary-tree 2021/11/01 v4.49 (NLCT)
+\glstreeindent=\skip267
+))
+\glswrite=\write6
+\glo@main@file=\write7
+\openout7 = `IntroToPhil.glo'.
+
+Package glossaries Info: Writing glossary file IntroToPhil.glo on input line 15
+.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tabu\tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box141
+\sift@deathcycles=\count398
+\@vwid@loff=\dimen329
+\@vwid@roff=\dimen330
+)
+\c@taburow=\count399
+\tabu@nbcols=\count400
+\tabu@cnt=\count401
+\tabu@Xcol=\count402
+\tabu@alloc=\count403
+\tabu@nested=\count404
+\tabu@target=\dimen331
+\tabu@spreadtarget=\dimen332
+\tabu@naturalX=\dimen333
+\tabucolX=\dimen334
+\tabu@Xsum=\dimen335
+\extrarowdepth=\dimen336
+\abovetabulinesep=\dimen337
+\belowtabulinesep=\dimen338
+\tabustrutrule=\dimen339
+\tabu@thebody=\toks59
+\tabu@footnotes=\toks60
+\tabu@box=\box142
+\tabu@arstrutbox=\box143
+\tabu@hleads=\box144
+\tabu@vleads=\box145
+\tabu@cellskip=\skip268
+) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/sfmath\sfmath.sty
+Package: sfmath 2007/08/27 v0.8 sans serif maths
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/phv/m/n on input line 329.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/phv/bx/n on input line 330.
+\symSFMath=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `SFMath' in version `normal'
+(Font)                  OT1/phv/m/sl --> OT1/phv/m/sl on input line 343.
+LaTeX Font Info:    Overwriting symbol font `SFMath' in version `bold'
+(Font)                  OT1/phv/m/sl --> OT1/phv/bx/sl on input line 344.
+LaTeX Font Info:    Redeclaring math symbol \imath on input line 398.
+LaTeX Font Info:    Redeclaring math symbol \jmath on input line 399.
+\symSFMathUp=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `SFMathUp' in version `normal'
+(Font)                  OT1/phv/m/n --> OT1/phv/m/n on input line 406.
+LaTeX Font Info:    Overwriting symbol font `SFMathUp' in version `bold'
+(Font)                  OT1/phv/m/n --> OT1/phv/bx/n on input line 407.
+LaTeX Font Info:    Redeclaring math symbol \ldotp on input line 410.
+\symSFMathGreek=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `SFMathGreek' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 419.
+LaTeX Font Info:    Overwriting symbol font `SFMathGreek' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 420.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 422.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 423.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 424.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 425.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 426.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 427.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 428.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 429.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 430.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 431.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 432.
+\symSFMathUpGreek=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `SFMathUpGreek' in version `normal'
+
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 436.
+LaTeX Font Info:    Overwriting symbol font `SFMathUpGreek' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 437.
+LaTeX Font Info:    Overwriting math alphabet `\mathnormal' in version `normal'
+
+(Font)                  OML/cmm/m/it --> OT1/phv/m/sl on input line 446.
+LaTeX Font Info:    Overwriting math alphabet `\mathnormal' in version `bold'
+(Font)                  OML/cmm/b/it --> OT1/phv/bx/sl on input line 447.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/phv/m/n --> OT1/phv/m/n on input line 449.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/phv/bx/n --> OT1/phv/bx/n on input line 450.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/phv/bx/n on input line 452.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/phv/bx/n on input line 453.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/phv/m/sl on input line 455.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/phv/bx/sl on input line 456.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 458.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/phv/bx/n on input line 459.
+LaTeX Font Info:    Overwriting math alphabet `\mathsl' in version `bold'
+(Font)                  OT1/phv/m/sl --> OT1/phv/bx/sl on input line 466.
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
+Package: newtxmath 2022/01/16 v1.71
+
+`newtxmath' v1.71, 2022/01/16 Math macros based originally on txfonts (msharpe)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count405
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\tx@Isdigit=\count406
+\tx@IsAlNum=\count407
+\tx@tA=\toks61
+\tx@tB=\toks62
+\tx@su=\read5
+
+amsthm NOT loaded
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 376.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/phv/m/n --> OT1/cmr/m/n on input line 376.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/phv/bx/n --> OT1/cmr/m/n on input line 376.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/b/n on input line 377.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 381.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 383.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/phv/m/n --> OT1/phv/m/n on input line 383.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/phv/bx/n --> OT1/phv/m/n on input line 383.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 384.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/phv/m/sl --> OT1/cmr/m/it on input line 384.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/phv/bx/sl --> OT1/cmr/m/it on input line 384.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 385.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 385.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 385.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 387.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/phv/bx/n --> OT1/cmr/b/n on input line 387.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/phv/bx/n --> OT1/cmr/b/n on input line 387.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/m/it --> OT1/cmr/b/it on input line 388.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 389.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 390.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 425.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/zbvmi/m/it on input line 425.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/zbvmi/m/it on input line 425.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/zbvmi/m/it --> OML/zbvmi/b/it on input line 426.
+\symlettersA=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 547.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 549.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 568.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 568.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 568.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 568.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 568.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 569.
+\symAMSm=\mathgroup11
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 594.
+\symsymbolsC=\mathgroup12
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 615.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 628.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 6
+28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 628.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 628
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 628.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 629.
+\symlargesymbolsTXA=\mathgroup13
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 643.
+\tx@sbptoks=\toks63
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 866.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 867.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 868.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 869.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 870.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 871.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 872.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 874.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 878.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 879.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 950.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 951.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2020.
+LaTeX Info: Redefining \Bbbk on input line 2810.
+LaTeX Info: Redefining \not on input line 2959.
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/mathastext\mathastext.s
+ty
+Package: mathastext 2019/11/16 v1.3w Use the text font in math mode (JFB)
+\mst@exists@muskip=\muskip18
+\mst@forall@muskip=\muskip19
+\mst@prime@muskip=\muskip20
+\mst@do@nonletters=\toks64
+\mst@do@easynonletters=\toks65
+\mst@do@az=\toks66
+\mst@do@AZ=\toks67
+\symmtoperatorfont=\mathgroup14
+\symmtletterfont=\mathgroup15
+
+** ! and ?
+** punctuation: , . : ; and \colon
+LaTeX Info: Redefining \rightarrowfill on input line 790.
+LaTeX Info: Redefining \leftarrowfill on input line 795.
+** + and =
+** adding = ; and + to \nfss@catcodes
+** parentheses ( ) [ ] and slash /
+** \# \mathdollar \% \& 
+** \imath and \jmath 
+LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `nor
+mal'
+(Font)                  OT1/cmr/b/n --> OT1/cmr/b/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `bol
+d'
+(Font)                  OT1/cmr/b/n --> OT1/cmr/b/n on input line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/b/n on input line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `normal
+'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/b/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `normal'
+(Font)                  OT1/cmr/b/n --> OT1/cmr/b/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `bold'
+(Font)                  OT1/cmr/b/n --> OT1/cmr/b/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmr/m/it on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `bold'
+(Font)                  OT1/cmr/m/it --> OT1/cmr/b/it on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `normal'
+(Font)                  OT1/phv/m/n --> OT1/phv/m/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `bold'
+(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 2140.
+** Latin letters in the normal (resp. bold) math versions are now
+** set up to use the fonts OT1/cmr/m(b)/n
+** Other characters (digits, ...) and \log-like names will be
+** typeset with the n shape.
+** \hbar
+** minus as endash
+** \HUGE has been (re)-defined.
+** mathastext has declared larger sizes for subscripts.
+** To keep LaTeX defaults, use option `defaultmathsizes'.
+) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/gitinfo2\gitinfo2.sty
+Package: gitinfo2 2015/11/22 v2.0.7 git revision information
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\integerpart=\count408
+\decimalpart=\count409
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen340
+\ESO@tempdimb=\dimen341
+)
+
+Package gitinfo2 Warning: I can't find the file '.git/gitHeadInfo.gin'.
+(gitinfo2)                All git metadata has been set to '(None)'.
+
+)
+\barlength=\skip269
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen342
+\captionmargin=\dimen343
+\caption@leftmargin=\dimen344
+\caption@rightmargin=\dimen345
+\caption@width=\dimen346
+\caption@indent=\dimen347
+\caption@parindent=\dimen348
+\caption@hangindent=\dimen349
+Package caption Info: memoir document class detected.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-memoir.
+sto
+File: caption-memoir.sto 2022/03/02 v2.2b Adaption of the caption package to th
+e memoir document class (AR)
+))
+\c@caption@flags=\count410
+\c@continuedfloat=\count411
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen350
+\caption@adjustwidth@linewidth=\dimen351
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: supertabular package is loaded.
+)
+\c@dummy=\count412
+\c@Example=\count413
+\c@ExampleArg=\count414
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2022/06/24 version 5.1.1 text color boxes
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box146
+\tcb@upperbox=\box147
+\tcb@lowerbox=\box148
+\tcb@phantombox=\box149
+\c@tcbbreakpart=\count415
+\c@tcblayer=\count416
+\c@tcolorbox@number=\count417
+\tcb@temp=\box150
+\tcb@temp=\box151
+\tcb@temp=\box152
+\tcb@temp=\box153
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.cod
+e.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '5.1.1'
+\c@tcbrastercolumn=\count418
+\c@tcbrasterrow=\count419
+\c@tcbrasternum=\count420
+\c@tcbraster=\count421
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code
+.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '5.1.1'
+\tcb@waterbox=\box154
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsa
+w.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.1.1'
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.
+code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '5.1.1'
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/oberdiek\pdfcol.sty
+Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box155
+\tcb@totalupperbox=\box156
+\tcb@totallowerbox=\box157
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code
+.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '5.1.1'
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.c
+ode.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '5.1.1'
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.co
+de.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '5.1.1'
+\tcbfitdim=\dimen352
+\tcb@lowerfitdim=\dimen353
+\tcb@upperfitdim=\dimen354
+\tcb@cur@hbadness=\count422
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsut
+f8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '5.1.1'
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.c
+ode.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '5.1.1'
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count423
+\lst@gtempboxa=\box158
+\lst@token=\toks68
+\lst@length=\count424
+\lst@currlwidth=\dimen355
+\lst@column=\count425
+\lst@pos=\count426
+\lst@lostspace=\dimen356
+\lst@width=\dimen357
+\lst@newlines=\count427
+\lst@lineno=\count428
+\lst@maxwidth=\dimen358
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count429
+\lst@skipnumbers=\count430
+\lst@framebox=\box159
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsco
+re.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '5.1.1'
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing
+.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '5.1.1'
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+))
+\c@tcblisting=\count431
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\listingsut
+f8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexternal.c
+ode.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '5.1.1'
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazine.c
+ode.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '5.1.1'
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignette.c
+ode.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '5.1.1'
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfadings.code.tex
+File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.cod
+e.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '5.1.1'
+))
+\c@ProbPart=\count432
+\c@countSeq=\count433
+
+
+Package hyperref Warning: Option `pdftitle' has already been used,
+(hyperref)                setting the option has no effect on input line 199.
+
+
+Package hyperref Warning: Option `pdfauthor' has already been used,
+(hyperref)                setting the option has no effect on input line 199.
+
+
+Package hyperref Warning: Option `pdfsubject' has already been used,
+(hyperref)                setting the option has no effect on input line 199.
+
+
+Package hyperref Warning: Option `pdfkeywords' has already been used,
+(hyperref)                setting the option has no effect on input line 199.
+
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 199.
+Package hyperref Info: Option `colorlinks' set `true' on input line 199.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 199
+.
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/marginnote\marginnote.s
+ty
+Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
+\c@mn@abspage=\count434
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/chronology\chronology.s
+ty
+Package: chronology 2015/03/27 v1.1.1 Horizontal timeline
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count435
+\calc@Bcount=\count436
+\calc@Adimen=\dimen359
+\calc@Bdimen=\dimen360
+\calc@Askip=\skip270
+\calc@Bskip=\skip271
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count437
+\calc@Cskip=\skip272
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-08-23 L3 programming layer (loader) 
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-08-23 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count438
+\l__pdf_internal_box=\box160
+))
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+\c@step=\count439
+\c@stepstart=\count440
+\c@stepstop=\count441
+\c@yearstart=\count442
+\c@yearstop=\count443
+\c@deltayears=\count444
+\xstart=\skip273
+\xstop=\skip274
+\unit=\skip275
+\timelinewidth=\skip276
+\timelinebox=\box161
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/07/20 3.78 The Babel package
+\babel@savecnt=\count445
+\U@D=\dimen361
+\l@unhyphenated=\language79
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read6
+\bbl@dirlevel=\count446
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\american.
+ldf
+Language: american 2017/06/06 v3.3r English support from the babel system
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-american.tex
+Package babel Info: Importing font and identification data for american
+(babel)             from babel-en-US.ini. Reported on input line 11.
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+\csq@reset=\count447
+\csq@gtype=\count448
+\csq@glevel=\count449
+\csq@qlevel=\count450
+\csq@maxlvl=\count451
+\csq@tshold=\count452
+\csq@ltx@everypar=\toks69
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.st
+y
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count453
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count454
+\c@listtotal=\count455
+\c@listcount=\count456
+\c@liststart=\count457
+\c@liststop=\count458
+\c@citecount=\count459
+\c@citetotal=\count460
+\c@multicitecount=\count461
+\c@multicitetotal=\count462
+\c@instcount=\count463
+\c@maxnames=\count464
+\c@minnames=\count465
+\c@maxitems=\count466
+\c@minitems=\count467
+\c@citecounter=\count468
+\c@maxcitecounter=\count469
+\c@savedcitecounter=\count470
+\c@uniquelist=\count471
+\c@uniquename=\count472
+\c@refsection=\count473
+\c@refsegment=\count474
+\c@maxextratitle=\count475
+\c@maxextratitleyear=\count476
+\c@maxextraname=\count477
+\c@maxextradate=\count478
+\c@maxextraalpha=\count479
+\c@abbrvpenalty=\count480
+\c@highnamepenalty=\count481
+\c@lownamepenalty=\count482
+\c@maxparens=\count483
+\c@parenlevel=\count484
+\blx@tempcnta=\count485
+\blx@tempcntb=\count486
+\blx@tempcntc=\count487
+\c@blx@maxsection=\count488
+\blx@maxsegment@0=\count489
+\blx@notetype=\count490
+\blx@parenlevel@text=\count491
+\blx@parenlevel@foot=\count492
+\blx@sectionciteorder@0=\count493
+\blx@sectionciteorderinternal@0=\count494
+\blx@entrysetcounter=\count495
+\blx@biblioinstance=\count496
+\labelnumberwidth=\skip277
+\labelalphawidth=\skip278
+\biblabelsep=\skip279
+\bibnamesep=\skip280
+\bibinitsep=\skip281
+\bibparsep=\skip282
+\bibhang=\skip283
+\blx@bcfin=\read7
+\blx@bcfout=\write8
+\blx@langwohyphens=\language80
+\c@mincomprange=\count497
+\c@maxcomprange=\count498
+\c@mincompwidth=\count499
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'mla.dbx' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-mla\mla.dbx
+File: mla.dbx 2022/02/22 v2.1a biblatex citation style
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count500
+\c@savedafterword=\count501
+\c@annotator=\count502
+\c@savedannotator=\count503
+\c@author=\count504
+\c@savedauthor=\count505
+\c@bookauthor=\count506
+\c@savedbookauthor=\count507
+\c@commentator=\count508
+\c@savedcommentator=\count509
+\c@editor=\count510
+\c@savededitor=\count511
+\c@editora=\count512
+\c@savededitora=\count513
+\c@editorb=\count514
+\c@savededitorb=\count515
+\c@editorc=\count516
+\c@savededitorc=\count517
+\c@foreword=\count518
+\c@savedforeword=\count519
+\c@holder=\count520
+\c@savedholder=\count521
+\c@introduction=\count522
+\c@savedintroduction=\count523
+\c@namea=\count524
+\c@savednamea=\count525
+\c@nameb=\count526
+\c@savednameb=\count527
+\c@namec=\count528
+\c@savednamec=\count529
+\c@translator=\count530
+\c@savedtranslator=\count531
+\c@shortauthor=\count532
+\c@savedshortauthor=\count533
+\c@shorteditor=\count534
+\c@savedshorteditor=\count535
+\c@labelname=\count536
+\c@savedlabelname=\count537
+\c@institution=\count538
+\c@savedinstitution=\count539
+\c@lista=\count540
+\c@savedlista=\count541
+\c@listb=\count542
+\c@savedlistb=\count543
+\c@listc=\count544
+\c@savedlistc=\count545
+\c@listd=\count546
+\c@savedlistd=\count547
+\c@liste=\count548
+\c@savedliste=\count549
+\c@listf=\count550
+\c@savedlistf=\count551
+\c@location=\count552
+\c@savedlocation=\count553
+\c@organization=\count554
+\c@savedorganization=\count555
+\c@origlocation=\count556
+\c@savedoriglocation=\count557
+\c@origpublisher=\count558
+\c@savedorigpublisher=\count559
+\c@publisher=\count560
+\c@savedpublisher=\count561
+\c@language=\count562
+\c@savedlanguage=\count563
+\c@origlanguage=\count564
+\c@savedoriglanguage=\count565
+\c@pageref=\count566
+\c@savedpageref=\count567
+\shorthandwidth=\skip284
+\shortjournalwidth=\skip285
+\shortserieswidth=\skip286
+\shorttitlewidth=\skip287
+\shortauthorwidth=\skip288
+\shorteditorwidth=\skip289
+\locallabelnumberwidth=\skip290
+\locallabelalphawidth=\skip291
+\localshorthandwidth=\skip292
+\localshortjournalwidth=\skip293
+\localshortserieswidth=\skip294
+\localshorttitlewidth=\skip295
+\localshortauthorwidth=\skip296
+\localshorteditorwidth=\skip297
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+\c@textcitecount=\count568
+\c@textcitetotal=\count569
+\c@textcitemaxnames=\count570
+\c@biburlbigbreakpenalty=\count571
+\c@biburlbreakpenalty=\count572
+\c@biburlnumpenalty=\count573
+\c@biburlucpenalty=\count574
+\c@biburllcpenalty=\count575
+\biburlbigskip=\muskip21
+\biburlnumskip=\muskip22
+\biburlucskip=\muskip23
+\biburllcskip=\muskip24
+\c@smartand=\count576
+)
+Package biblatex Info: Trying to load bibliography style 'mla'...
+Package biblatex Info: ... file 'mla.bbx' found.
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-mla\mla.bbx
+File: mla.bbx 2022/02/22 v2.1a biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'mla-strict'...
+Package biblatex Info: ... file 'mla-strict.bbx' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-mla\mla-strict
+.bbx
+File: mla-strict.bbx 2022/02/22 v2.1a biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count577
+\c@bbx:relatedtotal=\count578
+)
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+, overwriting.
+\c@containing=\count579
+))
+Package biblatex Info: Trying to load citation style 'mla'...
+Package biblatex Info: ... file 'mla.cbx' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-mla\mla.cbx
+File: mla.cbx 2022/02/22 v2.1a biblatex citation style
+Package biblatex Info: Trying to load citation style 'mla-footnotes'...
+Package biblatex Info: ... file 'mla-footnotes.cbx' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-mla\mla-footno
+tes.cbx
+File: mla-footnotes.cbx 2022/02/22 v2.1a biblatex citation style
+)
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citetitle'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2022-08-23 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
+
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
+Package: textpos 2022/07/23 v1.10.1
+Package textpos Info: choosing support for LaTeX3 on input line 60.
+\TP@textbox=\box162
+\TP@holdbox=\box163
+\TPHorizModule=\dimen362
+\TPVertModule=\dimen363
+\TP@margin=\dimen364
+\TP@absmargin=\dimen365
+
+Grid set 16 x 16 = 22.58437pt x 36.135pt
+\TPboxrulesize=\dimen366
+\TP@ox=\dimen367
+\TP@oy=\dimen368
+\TP@tbargs=\toks70
+TextBlockOrigin set to 0pt x 0pt
+) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen369
+\WF@size=\dimen370
+\c@WF@wrappedlines=\count580
+\WF@box=\box164
+\WF@everypar=\toks71
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pagecolor\pagecolor.sty
+Package: pagecolor 2017/05/29 v1.0i Provides thepagecolor (HMM)
+
+Package pagecolor Warning: \nopagecolor does not work with
+(pagecolor)                the used crop package. Using
+(pagecolor)                none
+(pagecolor)                as nopagecolor now
+(pagecolor)                 on input line 231.
+
+
+Package pagecolor Warning: Option nopagecolor=none requested 
+(pagecolor)                but this does not work with the crop package.
+(pagecolor)                By option nopagecolor the "colour" to be used with \
+nopagecolor
+(pagecolor)                is set. The current value is "none" (maybe by defaul
+t),
+(pagecolor)                but the crop package broke \nopagecolor.
+(pagecolor)                Therefore the colour cannot be "none".
+(pagecolor)                Please change the option accordingly!
+(pagecolor)                As first aid nopagecolor is now set to white
+(pagecolor)                 on input line 231.
+
+)
+   defining Unicode char U+FE01 (decimal 65025)
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks72
+\AP@partial=\box165
+\AP@footins=\box166
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'american'.
+
+(IntroToPhil.aux
+
+LaTeX Warning: Label `cookies5' multiply defined.
+
+)
+\openout1 = `IntroToPhil.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/zbvmi/m/it on input line 36.
+LaTeX Font Info:    Trying to load font information for OML+zbvmi on input line
+ 36.
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlzbvmi.fd
+File: omlzbvmi.fd 2014/04/06 Fontinst v1.933 font definitions for OML/zbvmi.
+)
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 36.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
+36.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 36.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
+ 36.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 36.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
+e 36.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 36.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count581
+\scratchdimen=\dimen371
+\scratchbox=\box167
+\nofMPsegments=\count582
+\nofMParguments=\count583
+\everyMPshowfont=\toks73
+\MPscratchCnt=\count584
+\MPscratchDim=\dimen372
+\MPnumerator=\count585
+\makeMPintoPDFobject=\count586
+\everyMPtoPDFconversion=\toks74
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring ON on input line 36.
+LaTeX Info: Command `\dddot' is already robust on input line 36.
+LaTeX Info: Command `\ddddot' is already robust on input line 36.
+ (IntroToPhil.glsdefs)
+Package mathastext Info: current meaning of amsmath \resetMathstrut@ saved on i
+nput line 36.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count587
+Package biblatex Info: Trying to load language 'american' -> 'american-mla'...
+Package biblatex Info: ... file 'american-mla.lbx' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-mla\american-m
+la.lbx
+File: american-mla.lbx 2022/02/22 v2.1a biblatex style localization
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american.l
+bx
+File: american.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english' -> 'english-mla'...
+Package biblatex Info: ... file 'english-mla.lbx' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-mla\english-ml
+a.lbx
+File: english-mla.lbx 2022/02/22 v2.1a biblatex style localization
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+)))
+Package biblatex Info: Trying to load language 'english' -> 'english-mla'...
+Package biblatex Info: ... file 'english-mla.lbx' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-mla\english-ml
+a.lbx
+File: english-mla.lbx 2022/02/22 v2.1a biblatex style localization
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+)))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout8 = `IntroToPhil.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'IntroToPhil.bbl' found.
+ (IntroToPhil.bbl)
+Package biblatex Info: Reference section=0 on input line 36.
+Package biblatex Info: Reference segment=0 on input line 36.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 5
+1.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+Underfull \vbox (badness 10000) detected at line 65
+ []
+
+
+Overfull \hbox (343.28139pt too wide) in paragraph at lines 46--67
+ []
+ []
+
+
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 46--67
+|  
+ []
+
+[1
+
+\openout6 = `IntroToPhil.ist'.
+
+] (content.tex (frontmatter.tex
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 17.
+ [1
+
+]
+Package marginnote Info: Using workaround for absolute page number on input lin
+e 20.
+ [2]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+44.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+44.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+44.
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+))
+[3]
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <48> not available
+(Font)              size <24.88> substituted on input line 7.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <48> not available
+(Font)              size <24.88> substituted on input line 7.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/it' in size <48> not available
+(Font)              size <24.88> substituted on input line 7.
+
+(IntroToPhil.toc [4
+
+] [5]) (preface.tex [6] [7
+
+] [8]
+
+Package biblatex Warning: No driver for 'footcite:online'.
+(biblatex)                Using fallback driver on input line 24.
+
+
+Package biblatex Warning: No driver for 'footcite:online'.
+(biblatex)                Using fallback driver on input line 26.
+
+
+Package biblatex Warning: No driver for 'footcite:online'.
+(biblatex)                Using fallback driver on input line 26.
+
+) [9] [10] (modone.tex
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <24> not available
+(Font)              size <24.88> substituted on input line 1.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \part{What is Philosophy?}
+                               [1
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10.95 Unmasking As-sump-
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/10.95 Revealing Pre-sup-po-si-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]|\OT1/cmr/m/n/10.95 Distinguishing Im-por-
+ []
+
+
+Underfull \hbox (badness 6236) in paragraph at lines 15--15
+[]|\OT1/cmr/m/n/10.95 Fixing/identifying mis-rep-re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]|\OT1/cmr/m/n/10.95 Examining World-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\OT1/cmr/m/n/10.95 Questioning Con-cep-
+ []
+
+[2
+
+] [3]
+Overfull \vbox (28.2998pt too high) has occurred while \output is active []
+
+
+[4] [5]
+\@gls@deffile=\write9
+\openout9 = `IntroToPhil.glsdefs'.
+
+ [6] [7] [8] [9]
+Underfull \hbox (badness 5696) in paragraph at lines 85--85
+[]|\OT1/cmr/m/n/10.95 that snow is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+[]|\OT1/cmr/m/n/10.95 Schnee ist
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 86--86
+[]|\OT1/cmr/m/n/10.95 that snow is
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 87--87
+[]|\OT1/cmr/m/n/10.95 that snow is
+ []
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 88--88
+[]|\OT1/cmr/m/n/10.95 La neige est
+ []
+
+[10] [11] [12] [13]
+Overfull \vbox (33.51685pt too high) has occurred while \output is active []
+
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+[]|\OT1/cmr/m/n/10.95 Line cooks
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+\OT1/cmr/m/n/10.95 good kitchen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+[]|\OT1/cmr/m/n/10.95 Line cooks
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+\OT1/cmr/m/n/10.95 gen-er-ally
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+\OT1/cmr/m/n/10.95 aren't paid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
+[]|\OT1/cmr/m/n/10.95 Therefore,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
+\OT1/cmr/m/n/10.95 Same can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+[]|\OT1/cmr/m/n/10.95 Therefore,
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 211--211
+[]|\OT1/cmr/m/n/10.95 Boston is in
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 211--212
+[]|\OT1/cmr/m/n/10.95 Boston is in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+[]|\OT1/cmr/m/n/10.95 Massachusetts
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+[]|\OT1/cmr/m/n/10.95 California is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\OT1/cmr/m/n/10.95 west of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+[]|\OT1/cmr/m/n/10.95 Therefore,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+[]|\OT1/cmr/m/n/10.95 Therefore,
+ []
+
+[15] [16] [17] [18]
+Underfull \hbox (badness 4378) in paragraph at lines 252--252
+\OT1/cmr/m/n/10.95 a man, then
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+\OT1/cmr/m/n/10.95 Socrates is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+[]|\OT1/cmr/m/n/10.95 All pri-mates
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
+[]|\OT1/cmr/m/n/10.95 Therefore,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
+\OT1/cmr/m/n/10.95 Socrates is
+ []
+
+
+Underfull \hbox (badness 4353) in paragraph at lines 254--254
+[]|\OT1/cmr/m/n/10.95 Therefore, all
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
+\OT1/cmr/m/n/10.95 hu-mans are
+ []
+
+
+Underfull \hbox (badness 4467) in paragraph at lines 254--255
+\OT1/cmr/m/n/10.95 not wet out-
+ []
+
+[19]
+Underfull \hbox (badness 6625) in paragraph at lines 268--268
+\OT1/cmr/m/n/10.95 then Socrates
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+\OT1/cmr/m/n/10.95 stole cook-ies
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+[]|\OT1/cmr/m/n/10.95 Socrates the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+[]|\OT1/cmr/m/n/10.95 Billy stole
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+[]|\OT1/cmr/m/n/10.95 It's not wet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+[]|\OT1/cmr/m/n/10.95 Therefore,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+\OT1/cmr/m/n/10.95 Socrates the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+[]|\OT1/cmr/m/n/10.95 Therefore,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+\OT1/cmr/m/n/10.95 Sally didn't
+ []
+
+[20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+[]|\OT1/cmr/m/n/10.95 Most things
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+\OT1/cmr/m/n/10.95 can-cer-ous
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+\OT1/cmr/m/n/10.95 to mice are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+\OT1/cmr/m/n/10.95 can-cer-ous to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+[]|\OT1/cmr/m/n/10.95 Oscar was
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
+\OT1/cmr/m/n/10.95 prod-ucts are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
+\OT1/cmr/m/n/10.95 can-cer-ous to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+[]|\OT1/cmr/m/n/10.95 Therefore,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+\OT1/cmr/m/n/10.95 a-bly cook
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+\OT1/cmr/m/n/10.95 in to-bacco
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+\OT1/cmr/m/n/10.95 prod-ucts are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+\OT1/cmr/m/n/10.95 cer-ous to
+ []
+
+[22] [23] [24] [25] [26] [27] [28] [29]
+
+Package biblatex Warning: No driver for 'footcite:misc'.
+(biblatex)                Using fallback driver on input line 380.
+
+[30] [31] [32] [33]
+Underfull \hbox (badness 10000) in paragraph at lines 404--404
+[]|\OT1/cmr/m/n/10.95 The non-existent
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 406--406
+[]|\OT1/cmr/m/n/10.95 The traf-fic in New
+ []
+
+
+Underfull \hbox (badness 4072) in paragraph at lines 407--407
+\OT1/cmr/m/n/10.95 but some are more
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+[]|\OT1/cmr/m/n/10.95 I make my own
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+[]|\OT1/cmr/m/n/10.95 What I ul-ti-mately
+ []
+
+[34] [35] [36] [37] [38] (apology.tex [39] [40
+
+] [41] [42] [43] [44] [45]
+[46] [47] [48]
+Underfull \hbox (badness 4084) in paragraph at lines 248--250
+\OT1/cmr/m/n/10.95 young and mak-ing them worse de-lib-er-ately or un-will-
+ []
+
+[49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63]
+[64] [65]) [66] [67
+
+] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+[79]
+Overfull \hbox (13.47998pt too wide) in paragraph at lines 571--580
+[] 
+ []
+
+[80]) (modtwo.tex [81] [82
+
+] (death.tex
+! Undefined control sequence.
+<argument> \biburldatelong 
+                           
+l.1 ...ter{Death By Thomas Nagel}\autocite{Nagel2}
+                                                  
+? 
+[83
+
+] [84] [85] [86] [87] [88] [89] [90] [91] [92]) [93] [94
+
+] [95] [96] [97]
+[98]) (modthree.tex [99] [100] [101
+
+] (mindbodyprob.tex [102
+
+] [103] [104]
+[105] [106]) [107] [108
+
+] [109] [110] [111] [112] [113] [114] [115] [116]
+[117] [118] [119] (mindsbrainsprog.tex [120] [121
+
+] [122] [123] [124] [125]
+[126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137]
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+[][] [][][]\OT1/cmr/m/n/9 Allen Newell, [][]\  Phys-i-cal Sym-bol Sys-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+\OT1/cmr/m/n/9 tems*[][]," \OT1/cmr/m/it/9 Cog-ni-tive Sci-ence \OT1/cmr/m/n/9 
+vol. 4, no. 2.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+\OT1/cmr/m/it/9 https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog040
+2_2\OT1/cmr/m/n/9 ,
+ []
+
+[138] [139] [140] [141] [142] [143] [144] [145] [146] [147]) [148] [149]
+[150
+
+] [151] [152] [153] [154]
+
+Package biblatex Warning: No driver for 'footcite:misc'.
+(biblatex)                Using fallback driver on input line 223.
+
+
+Package biblatex Warning: No driver for 'footcite:misc'.
+(biblatex)                Using fallback driver on input line 225.
+
+[155] [156] [157] [158] [159] [160] [161]
+
+Package biblatex Warning: No driver for 'footcite:misc'.
+(biblatex)                Using fallback driver on input line 282.
+
+[162] [163]) (modfour.tex [164] [165] [166
+
+] [167
+
+] [168] [169] [170] [171]
+[172
+
+]
+
+Class memoir Warning: The material used in the headers is too large
+(27.2pt) for the given head height (13.6pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 56.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[173]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[174]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[175]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[176]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[177]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[178] [179
+
+] [180] [181] [182
+
+] [183] [184] [185] (PhysicalismLibertarianism.tex
+[186] [187
+
+] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197]
+[198]) (LibertarianismDualism.tex [199] [200
+
+] [201] [202] [203] [204] [205]
+[206] [207] [208] [209] [210])) (modfive.tex [211] [212] [213
+
+] [214
+
+] [215]
+[216]
+Underfull \hbox (badness 5022) in paragraph at lines 58--58
+\OT1/cmr/m/n/10.95 inter-working parts and
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 58--59
+[]|\OT1/cmr/m/n/10.95 They both have metal
+ []
+
+[217] [218] [219] [220] [221]
+Overfull \hbox (13.47998pt too wide) in paragraph at lines 127--136
+[] 
+ []
+
+[222] [223] [224] [225] [226] [227]
+Underfull \hbox (badness 5036) in paragraph at lines 220--220
+[]|\OT1/cmr/m/n/10.95 Therefore, ran-dom fluc-tu-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+[]|\OT1/cmr/m/n/10.95 Therefore, The Fly-ing
+ []
+
+
+Overfull \hbox (13.47998pt too wide) in paragraph at lines 212--223
+[]
+ []
+
+[228] [229] [230] [231] [232]
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+[]|\OT1/cmr/m/n/10.95 Therefore, my sig-nif-i-cant
+ []
+
+
+Overfull \hbox (13.47998pt too wide) in paragraph at lines 290--299
+[] 
+ []
+
+[233] [234] [235] [236
+
+] [237] [238]
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+[][] [][][]\OT1/cmr/m/n/9 Nasrin Rouzati, [][]\  Evil and Hu-man Suf-fer-ing in
+ Is-lamic
+ []
+
+[239] [240] [241] [242] [243] [244] [245] [246] [247] [248] [249] [250]
+[251]) (modsix.tex [252] [253
+
+] (meditationsonetothree.tex [254
+
+] [255] [256]
+[257] [258] [259] [260] [261] [262] [263] [264] [265] [266] [267] [268]
+[269] [270] [271] [272] [273] [274] [275] [276] [277] [278] [279] [280]
+[281] [282] [283] [284] [285]) [286] [287
+
+] [288] [289] [290] [291
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[292]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[293]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[294]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[295]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[296]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[297]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[298]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[299]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[300]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[301]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[302]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[303] [304
+
+] [305] [306] [307] [308] [309] [310] [311]) (modseven.tex [312]
+[313
+
+] (culturalrelativismrachels.tex [314
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[315]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[316]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[317]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[318]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[319]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[320]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[321]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[322]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[323]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[324]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[325]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[326]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[327]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[328]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[329]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[330])
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[331]
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/10.95 Meta-
+ []
+
+
+Underfull \hbox (badness 6876) in paragraph at lines 13--14
+[]|\OT1/cmr/m/n/10.95 What ex-actly
+ []
+
+
+Underfull \hbox (badness 6876) in paragraph at lines 15--15
+[]\OT1/cmr/m/n/10.95 What ex-actly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\OT1/cmr/m/n/10.95 Concerning
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/cmr/m/n/10.95 mat-ter and
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 16--17
+[]|\OT1/cmr/m/n/10.95 Is mat-ter all
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\OT1/cmr/m/n/10.95 Concerning
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/cmr/m/n/10.95 lan-guage,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/cmr/m/n/10.95 struc-ture in
+ []
+
+
+Overfull \hbox (7.16672pt too wide) in paragraph at lines 21--21
+[]|\OT1/cmr/m/n/10.95 Metalinguistics| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[]|\OT1/cmr/m/n/10.95 How does
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 21--22
+\OT1/cmr/m/n/10.95 to truth and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+\OT1/cmr/m/n/10.95 pick out
+ []
+
+
+Overfull \hbox (12.98502pt too wide) in paragraph at lines 10--25
+[] 
+ []
+
+[332
+
+] [333] [334] [335] [336] [337]
+Overfull \hbox (30.47998pt too wide) in paragraph at lines 57--61
+[][] 
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 68--68
+\OT1/cmr/m/n/10.95 dif-fer-ent be-liefs about the
+ []
+
+
+Overfull \hbox (30.47998pt too wide) in paragraph at lines 67--71
+[][] 
+ []
+
+[338] [339] [340] [341]
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]|\OT1/cmr/m/n/10.95 Cultural Im-pe-ri-al-ism is
+ []
+
+
+Underfull \hbox (badness 7186) in paragraph at lines 103--104
+[]|\OT1/cmr/m/n/10.95 There are no non-relative
+ []
+
+
+Overfull \hbox (13.47998pt too wide) in paragraph at lines 101--106
+[]
+ []
+
+[342] [343] [344]
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\OT1/cmr/m/n/10.95 A dis-agree-ment about
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\OT1/cmr/m/n/10.95 A dis-agree-ment about
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\OT1/cmr/m/n/10.95 A dis-agree-ment about
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\OT1/cmr/m/n/10.95 A dis-agree-ment about
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\OT1/cmr/m/n/10.95 A dis-agree-ment about
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\OT1/cmr/m/n/10.95 A dis-agree-ment about
+ []
+
+
+Overfull \hbox (8.64291pt too wide) in paragraph at lines 150--150
+[][] 
+ []
+
+[345] [346] [347] [348] [349] [350] [351] [352] [353] [354] [355
+
+] [356]
+[357] [358]
+
+Package biblatex Warning: No driver for 'footcite:online'.
+(biblatex)                Using fallback driver on input line 286.
+
+[359] [360] [361]
+Underfull \hbox (badness 10000) in paragraph at lines 316--316
+[]|\OT1/cmr/m/n/10.95 Murder is
+ []
+
+[362] [363] [364]) (modeight.tex [365] [366
+
+] [367
+
+] [368] [369] [370] [371
+
+]
+[372]
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/10.95 Hedons
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/10.95 Dolors
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/n/10.95 (unhappy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\OT1/cmr/m/n/10.95 Buying New
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]|\OT1/cmr/m/n/10.95 Donating to
+ []
+
+
+Overfull \hbox (55.67993pt too wide) in paragraph at lines 47--55
+[][]
+ []
+
+[373]
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\OT1/cmr/m/n/10.95 Hedons
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\OT1/cmr/m/n/10.95 Dolors
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\OT1/cmr/m/n/10.95 (unhappy-
+ []
+
+
+Overfull \hbox (55.67993pt too wide) in paragraph at lines 62--68
+[][] 
+ []
+
+[374] [375] [376] [377] [378] [379] [380] [381] [382] [383] [384] [385
+
+]
+[386] [387] [388] [389] [390] [391] [392] [393] [394] (bloodbending.tex
+[395] [396
+
+] [397] [398] [399] [400] [401] [402] [403] [404] [405] [406]
+[407] [408] [409] [410])) (modnine.tex [411] [412
+
+] (statusofabortion.tex
+[413
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[414]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[415]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[416]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[417]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[418]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[419]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[420]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[421]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[422]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[423]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[424]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[425]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[426]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[427]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[428]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[429]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[430]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[431]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[432]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[433]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[434])
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[435]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[436] [437
+
+] [438]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+[]\OT1/cmr/m/n/10.95 Causing more harm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+[]\OT1/cmr/m/n/10.95 Therefore, re-stric-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+[]\OT1/cmr/m/n/10.95 Restrictive laws re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+[]\OT1/cmr/m/n/10.95 Denying women the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+\OT1/cmr/m/n/10.95 re-pro-duc-tion vi-o-lates
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]\OT1/cmr/m/n/10.95 Therefore, re-stric-tive
+ []
+
+
+Overfull \hbox (13.47998pt too wide) in paragraph at lines 36--51
+[]
+ []
+
+[439]
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+[]\OT1/cmr/m/n/10.95 Violating a per-son's
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 67--68
+[]\OT1/cmr/m/n/10.95 Therefore, hav-ing an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+\OT1/cmr/m/n/10.95 abor-tion is al-ways
+ []
+
+
+Overfull \hbox (13.47998pt too wide) in paragraph at lines 52--71
+[]
+ []
+
+[440] [441] [442] [443] [444
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+[]\OT1/cmr/m/n/10.95 Violating a per-son's
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 96--97
+[]\OT1/cmr/m/n/10.95 Therefore, hav-ing an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+\OT1/cmr/m/n/10.95 abor-tion is al-ways
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+[]\OT1/cmr/m/n/10.95 Violating a per-son's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+[]\OT1/cmr/m/n/10.95 Therefore, un-plug-ging
+ []
+
+
+Underfull \hbox (badness 7722) in paragraph at lines 103--104
+\OT1/cmr/m/n/10.95 from the vi-o-lin-ist is
+ []
+
+
+Overfull \hbox (13.47998pt too wide) in paragraph at lines 87--106
+[]
+ []
+
+[445] [446] [447] [448] [449]
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+[]\OT1/cmr/m/n/10.95 Therefore, a cheese
+ []
+
+
+Overfull \hbox (13.47998pt too wide) in paragraph at lines 137--152
+[]
+ []
+
+[450] [451] [452]
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+[]\OT1/cmr/m/n/10.95 Therefore, a cheese
+ []
+
+
+Overfull \hbox (30.47998pt too wide) in paragraph at lines 157--170
+[][] 
+ []
+
+[453] [454] [455] [456] [457] [458] [459]
+
+Package biblatex Warning: No driver for 'footcite:misc'.
+(biblatex)                Using fallback driver on input line 250.
+
+
+Package biblatex Warning: No driver for 'footcite:misc'.
+(biblatex)                Using fallback driver on input line 250.
+
+[460] [461] [462] [463] [464] [465] (iwasonceafetus.tex [466] [467
+
+] [468]
+[469] [470] [471] [472] [473] [474] [475] [476] [477] [478] [479] [480]
+[481]) [482] [483
+
+] [484] [485] [486] [487] [488] [489] [490] [491] [492]
+[493]) (modten.tex [494] [495
+
+] [496
+
+] [497] [498] [499] [500] [501] [502]
+[503] [504] [505] [506] [507] [508] [509] [510] [511] [512] [513] [514
+
+]
+Overfull \hbox (13.47998pt too wide) in paragraph at lines 151--156
+[] 
+ []
+
+[515] [516]
+Overfull \hbox (1.07999pt too wide) in paragraph at lines 160--170
+[]
+ []
+
+
+Overfull \hbox (1.07999pt too wide) in paragraph at lines 160--170
+[]
+ []
+
+[517] [518] [519]
+! Undefined control sequence.
+<argument> \biburldatelong 
+                           
+l.184 ... there was a massive increase in births.}
+                                                  
+? 
+[520] [521] [522] [523] [524] [525] [526] [527]) (modeleven.tex [528] [529
+
+]
+[530
+
+] [531] [532] [533] [534] [535] [536] [537] [538] [539] [540] [541]
+[542] [543] [544] [545] [546]) [547] [548] [549
+
+] (commonbiases.tex [550
+
+]
+[551] [552] [553] [554] [555] [556] [557] [558] [559]
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/cmr/bx/n/10.95 Brain and Com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+[]\OT1/cmr/m/n/10.95 They both
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+\OT1/cmr/m/n/10.95 have com-plex,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+\OT1/cmr/m/n/10.95 inter-working
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+\OT1/cmr/m/n/10.95 parts and it's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+\OT1/cmr/m/n/10.95 one part fails
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+\OT1/cmr/m/n/10.95 to func-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+[]\OT1/cmr/m/n/10.95 Yet, it would
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+\OT1/cmr/m/n/10.95 be ridicu-lous
+ []
+
+
+Underfull \hbox (badness 4913) in paragraph at lines 100--101
+\OT1/cmr/m/n/10.95 strict the pur-
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 100--101
+\OT1/cmr/m/n/10.95 chase of ham-
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 101--102
+[]\OT1/cmr/m/n/10.95 So, re-stric-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+\OT1/cmr/m/n/10.95 on pur-chas-ing
+ []
+
+[560] [561] [562] [563] [564] [565] [566] [567] [568] [569] [570] [571])
+[572] (IntroToPhil.gls [573
+
+
+] [574]) [575] [576
+
+] [577] [578]
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\OT1/cmr/m/n/10.95 Newell, Allen. \  Phys-i-cal Sym-bol Sys-tems*." \OT1/cmr/
+m/it/10.95 Cog-ni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\OT1/cmr/m/it/10.95 tive Sci-ence\OT1/cmr/m/n/10.95 , vol. 4, no. 2, 1980, pp. 
+135{83.
+ []
+
+
+Overfull \hbox (49.96292pt too wide) in paragraph at lines 34--34
+\OT1/cmr/m/it/10.95 https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709co
+g0402_2\OT1/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\OT1/cmr/m/n/10.95 https://doi.org/[][]$https : / / doi . org / 10 . 1207 /
+ []
+
+[579] [580] [581])
+
+Class memoir Warning: The material used in the headers is too large
+(27.2pt) for the given head height (13.6pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 71.
+
+[582]
+\tf@toc=\write10
+\openout10 = `IntroToPhil.toc'.
+
+ (IntroToPhil.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 23.12pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package logreq Info: Writing requests to 'IntroToPhil.run.xml'.
+\openout1 = `IntroToPhil.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 59360 strings out of 477843
+ 1147876 string characters out of 2823599
+ 1994665 words of memory out of 3000000
+ 75757 multiletter control sequences out of 15000+600000
+ 529961 words of font info for 160 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 106i,15n,131p,3977b,4514s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+pdfTeX warning (dest): name{Hfootnote.18} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.17} has been referenced but does not exis
+t, replaced by a fixed one
+
+ <C:\Users\davis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm10
+95.pk>{C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc
+}<C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI
+.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/davis/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/davis/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/davis/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/davi
+s/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Us
+ers/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pf
+b><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.
+pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb
+8a.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/u
+hvr8a.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helveti
+c/uhvro8a.pfb>
+Output written on IntroToPhil.pdf (593 pages, 1936776 bytes).
+PDF statistics:
+ 4464 PDF objects out of 5155 (max. 8388607)
+ 1482 named destinations out of 1728 (max. 500000)
+ 593 words of extra memory for PDF output out of 10000 (max. 10000000)
+

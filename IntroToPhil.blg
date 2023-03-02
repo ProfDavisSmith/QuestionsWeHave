@@ -1,0 +1,17 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'IntroToPhil.blg'
+[120] biber-MSWIN64:340> INFO - === 
+[166] Biber.pm:418> INFO - Reading 'IntroToPhil.bcf'
+[327] Biber.pm:978> INFO - Found 86 citekeys in bib section 0
+[346] Biber.pm:4401> INFO - Processing section 0
+[358] Biber.pm:4592> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[418] bibtex.pm:1713> INFO - LaTeX decoding ...
+[534] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[1000] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1000] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1000] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1000] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[1082] bbl.pm:654> INFO - Writing 'IntroToPhil.bbl' with encoding 'UTF-8'
+[1124] bbl.pm:757> INFO - Output to IntroToPhil.bbl
+[1125] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\davis\AppData\Local\Temp\biber_tmp_Niqn\f4d088b3f9f145b5c3058da33afd57d4_28944.utf8, line 6, warning: 84 characters of junk seen at toplevel
+[1125] Biber.pm:132> INFO - WARNINGS: 1
