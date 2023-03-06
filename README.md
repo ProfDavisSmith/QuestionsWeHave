@@ -13,7 +13,7 @@ to the concrete, like our moral duties to other people and animals. The primary 
 4. Minds, Brains and Programs by John Searle
 5. Are Libertarianism and Physicalism Compatible? by Davis Smith
 6. Are Dualism and Physicalism Compatible? by Davis Smith
-7. Meditations on First Philosophy by Ren´e Descartes
+7. Meditations on First Philosophy by René Descartes
 8. The Challenge of Cultural Relativism by James Rachels
 9. The Moral Status of Bloodbending by Davis Smith
 10. The Moral and Legal Status of Abortion by Mary Warren
