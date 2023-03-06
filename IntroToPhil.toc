@@ -400,56 +400,56 @@
 \contentsline {subsection}{Limiting choices:}{515}{section*.390}%
 \contentsline {subsection}{Unidirectional Benefit:}{517}{section*.391}%
 \contentsline {subsection}{Power to bring them into being:}{519}{section*.392}%
-\contentsline {section}{The Non-Identity Problem}{522}{section*.393}%
-\contentsline {subsection}{An action is wrong only if it makes a person (morally relevant being) worse off than otherwise.}{522}{section*.394}%
-\contentsline {subsubsection}{Historical Example (Ethics concerning contemporaneous peoples)}{523}{section*.395}%
-\contentsline {subsection}{An action which brings a person into existence such that they couldn’t have been made otherwise and their life is at least marginally better than never being born, can’t have made them worse off than otherwise.}{524}{section*.396}%
-\contentsline {subsubsection}{Bio-dome Bob}{525}{section*.397}%
-\contentsline {subsubsection}{Sunshine Sally}{526}{section*.398}%
-\contentsline {section}{Two Potential Ways Out (there are problems with each)}{526}{section*.399}%
-\contentsline {subsection}{Averagism}{527}{section*.400}%
-\contentsline {subsection}{Totalism}{528}{section*.401}%
-\contentsline {part}{\partnumberline {XI}What is justice? What is equality?}{529}{part.11}%
+\contentsline {section}{The Non-Identity Problem}{521}{section*.393}%
+\contentsline {subsection}{An action is wrong only if it makes a person (morally relevant being) worse off than otherwise.}{521}{section*.394}%
+\contentsline {subsubsection}{Historical Example (Ethics concerning contemporaneous peoples)}{522}{section*.395}%
+\contentsline {subsection}{An action which brings a person into existence such that they couldn’t have been made otherwise and their life is at least marginally better than never being born, can’t have made them worse off than otherwise.}{523}{section*.396}%
+\contentsline {subsubsection}{Bio-dome Bob}{524}{section*.397}%
+\contentsline {subsubsection}{Sunshine Sally}{525}{section*.398}%
+\contentsline {section}{Two Potential Ways Out (there are problems with each)}{525}{section*.399}%
+\contentsline {subsection}{Averagism}{526}{section*.400}%
+\contentsline {subsection}{Totalism}{527}{section*.401}%
+\contentsline {part}{\partnumberline {XI}What is justice? What is equality?}{528}{part.11}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Part 25: Political Philosophy}{530}{chapter*.403}%
-\contentsline {section}{So what is equality exactly?}{531}{section*.404}%
-\contentsline {section}{Equality of Money}{533}{section*.405}%
-\contentsline {subsection}{Utilitarian Considerations}{533}{section*.406}%
-\contentsline {subsection}{Kantian-style Thinking}{534}{section*.407}%
-\contentsline {section}{Equality of Money (Problems)}{535}{section*.408}%
-\contentsline {subsection}{Problem 1: Impractical and Short-lived}{535}{section*.409}%
-\contentsline {subsection}{Problem 2: Different people deserve different amounts}{536}{section*.410}%
-\contentsline {subsection}{Problem 3: Different people have different needs.}{536}{section*.411}%
-\contentsline {subsection}{Problem 4: It is not right to redistribute.}{536}{section*.412}%
-\contentsline {section}{Equality of Opportunity}{537}{section*.413}%
-\contentsline {section}{Reverse Discrimination (Problems)}{539}{section*.414}%
-\contentsline {subsection}{Problem 1: It is actually anti-egalitarian!}{540}{section*.415}%
-\contentsline {subsection}{Problem 2: Resentment}{541}{section*.416}%
-\contentsline {subsection}{Problem 3: It attacks the symptom, but not the cause.}{541}{section*.417}%
-\contentsline {section}{Equality of Political Power}{542}{section*.418}%
-\contentsline {subsection}{Direct Democracies}{543}{section*.419}%
-\contentsline {subsection}{Representative Democracies}{543}{section*.420}%
-\contentsline {section}{Democracies (Problems)}{545}{section*.421}%
-\contentsline {subsection}{Problem 1: It’s an illusion}{545}{section*.422}%
-\contentsline {subsection}{Problem 2: Voters are not experts}{546}{section*.423}%
-\contentsline {subsection}{Problem 3: The Paradox of Democracy}{547}{section*.424}%
-\contentsline {part}{Appendices}{550}{section*.426}%
+\contentsline {chapter}{Part 25: Political Philosophy}{529}{chapter*.403}%
+\contentsline {section}{So what is equality exactly?}{530}{section*.404}%
+\contentsline {section}{Equality of Money}{532}{section*.405}%
+\contentsline {subsection}{Utilitarian Considerations}{532}{section*.406}%
+\contentsline {subsection}{Kantian-style Thinking}{533}{section*.407}%
+\contentsline {section}{Equality of Money (Problems)}{534}{section*.408}%
+\contentsline {subsection}{Problem 1: Impractical and Short-lived}{534}{section*.409}%
+\contentsline {subsection}{Problem 2: Different people deserve different amounts}{535}{section*.410}%
+\contentsline {subsection}{Problem 3: Different people have different needs.}{535}{section*.411}%
+\contentsline {subsection}{Problem 4: It is not right to redistribute.}{535}{section*.412}%
+\contentsline {section}{Equality of Opportunity}{536}{section*.413}%
+\contentsline {section}{Reverse Discrimination (Problems)}{538}{section*.414}%
+\contentsline {subsection}{Problem 1: It is actually anti-egalitarian!}{539}{section*.415}%
+\contentsline {subsection}{Problem 2: Resentment}{540}{section*.416}%
+\contentsline {subsection}{Problem 3: It attacks the symptom, but not the cause.}{540}{section*.417}%
+\contentsline {section}{Equality of Political Power}{541}{section*.418}%
+\contentsline {subsection}{Direct Democracies}{542}{section*.419}%
+\contentsline {subsection}{Representative Democracies}{542}{section*.420}%
+\contentsline {section}{Democracies (Problems)}{544}{section*.421}%
+\contentsline {subsection}{Problem 1: It’s an illusion}{544}{section*.422}%
+\contentsline {subsection}{Problem 2: Voters are not experts}{545}{section*.423}%
+\contentsline {subsection}{Problem 3: The Paradox of Democracy}{546}{section*.424}%
+\contentsline {part}{Appendices}{549}{section*.426}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Common Biases}{550}{appendix*.427}%
-\contentsline {section}{Confirmation Bias}{551}{section*.428}%
-\contentsline {section}{Self-Interest Bias}{553}{section*.429}%
-\contentsline {section}{Affect Bias}{554}{section*.430}%
-\contentsline {section}{Selective-Attention Bias}{557}{section*.431}%
-\contentsline {section}{Negativity Bias}{557}{section*.432}%
-\contentsline {section}{Resistance Bias}{558}{section*.433}%
-\contentsline {section}{Belief Bias}{559}{section*.434}%
-\contentsline {section}{Availability Bias}{562}{section*.435}%
-\contentsline {section}{Bandwagon Bias}{563}{section*.436}%
-\contentsline {section}{First-Person Bias}{564}{section*.437}%
-\contentsline {section}{Ethnocentricim and Stereotyping}{566}{section*.438}%
-\contentsline {section}{False Consensus Bias}{567}{section*.439}%
-\contentsline {section}{Externalization Bias}{568}{section*.440}%
-\contentsline {section}{Substitution Bias}{569}{section*.441}%
-\contentsline {section}{Anchoring Bias}{571}{section*.442}%
-\contentsline {chapter}{Glossary}{573}{section*.443}%
-\contentsline {chapter}{Bibliography}{582}{appendix*.445}%
+\contentsline {chapter}{Common Biases}{549}{appendix*.427}%
+\contentsline {section}{Confirmation Bias}{550}{section*.428}%
+\contentsline {section}{Self-Interest Bias}{552}{section*.429}%
+\contentsline {section}{Affect Bias}{553}{section*.430}%
+\contentsline {section}{Selective-Attention Bias}{556}{section*.431}%
+\contentsline {section}{Negativity Bias}{556}{section*.432}%
+\contentsline {section}{Resistance Bias}{557}{section*.433}%
+\contentsline {section}{Belief Bias}{558}{section*.434}%
+\contentsline {section}{Availability Bias}{561}{section*.435}%
+\contentsline {section}{Bandwagon Bias}{562}{section*.436}%
+\contentsline {section}{First-Person Bias}{563}{section*.437}%
+\contentsline {section}{Ethnocentricim and Stereotyping}{565}{section*.438}%
+\contentsline {section}{False Consensus Bias}{566}{section*.439}%
+\contentsline {section}{Externalization Bias}{567}{section*.440}%
+\contentsline {section}{Substitution Bias}{568}{section*.441}%
+\contentsline {section}{Anchoring Bias}{570}{section*.442}%
+\contentsline {chapter}{Glossary}{572}{section*.443}%
+\contentsline {chapter}{Bibliography}{581}{appendix*.445}%

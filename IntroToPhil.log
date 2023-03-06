@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  14 FEB 2023 14:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  6 MAR 2023 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2338,51 +2338,51 @@ LaTeX Warning: Label `cookies5' multiply defined.
 )
 \openout1 = `IntroToPhil.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/zbvmi/m/it on input line 36.
+LaTeX Font Info:    Checking defaults for OML/zbvmi/m/it on input line 37.
 LaTeX Font Info:    Trying to load font information for OML+zbvmi on input line
- 36.
+ 37.
  (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlzbvmi.fd
 File: omlzbvmi.fd 2014/04/06 Fontinst v1.933 font definitions for OML/zbvmi.
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 37.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-36.
+37.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 37.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 36.
+ 37.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 37.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 36.
+e 37.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    ... okay on input line 37.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -2409,12 +2409,12 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 36.
-LaTeX Info: Command `\dddot' is already robust on input line 36.
-LaTeX Info: Command `\ddddot' is already robust on input line 36.
+Package hyperref Info: Link coloring ON on input line 37.
+LaTeX Info: Command `\dddot' is already robust on input line 37.
+LaTeX Info: Command `\ddddot' is already robust on input line 37.
  (IntroToPhil.glsdefs)
 Package mathastext Info: current meaning of amsmath \resetMathstrut@ saved on i
-nput line 36.
+nput line 37.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
@@ -2466,24 +2466,24 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'IntroToPhil.bbl' found.
  (IntroToPhil.bbl)
-Package biblatex Info: Reference section=0 on input line 36.
-Package biblatex Info: Reference segment=0 on input line 36.
+Package biblatex Info: Reference section=0 on input line 37.
+Package biblatex Info: Reference segment=0 on input line 37.
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 5
-1.
+2.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
-Underfull \vbox (badness 10000) detected at line 65
+Underfull \vbox (badness 10000) detected at line 66
  []
 
 
-Overfull \hbox (343.28139pt too wide) in paragraph at lines 46--67
+Overfull \hbox (343.28139pt too wide) in paragraph at lines 47--68
  []
  []
 
 
-Overfull \hbox (28.45274pt too wide) in paragraph at lines 46--67
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 47--68
 |  
  []
 
@@ -2912,30 +2912,24 @@ Overfull \hbox (13.47998pt too wide) in paragraph at lines 571--580
 
 [80]) (modtwo.tex [81] [82
 
-] (death.tex
-! Undefined control sequence.
-<argument> \biburldatelong 
-                           
-l.1 ...ter{Death By Thomas Nagel}\autocite{Nagel2}
-                                                  
-? 
-[83
+] (death.tex [83
 
-] [84] [85] [86] [87] [88] [89] [90] [91] [92]) [93] [94
+] [84] [85] [86] [87] [88] [89]
+[90] [91] [92]) [93] [94
 
-] [95] [96] [97]
-[98]) (modthree.tex [99] [100] [101
+] [95] [96] [97] [98]) (modthree.tex [99] [100]
+[101
 
 ] (mindbodyprob.tex [102
 
-] [103] [104]
-[105] [106]) [107] [108
+] [103] [104] [105] [106]) [107] [108
 
-] [109] [110] [111] [112] [113] [114] [115] [116]
-[117] [118] [119] (mindsbrainsprog.tex [120] [121
+] [109]
+[110] [111] [112] [113] [114] [115] [116] [117] [118] [119]
+(mindsbrainsprog.tex [120] [121
 
-] [122] [123] [124] [125]
-[126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137]
+] [122] [123] [124] [125] [126] [127] [128]
+[129] [130] [131] [132] [133] [134] [135] [136] [137]
 Underfull \hbox (badness 10000) in paragraph at lines 361--361
 [][] [][][]\OT1/cmr/m/n/9 Allen Newell, [][]\  Phys-i-cal Sym-bol Sys-
  []
@@ -3669,25 +3663,18 @@ Overfull \hbox (1.07999pt too wide) in paragraph at lines 160--170
 []
  []
 
-[517] [518] [519]
-! Undefined control sequence.
-<argument> \biburldatelong 
-                           
-l.184 ... there was a massive increase in births.}
-                                                  
-? 
-[520] [521] [522] [523] [524] [525] [526] [527]) (modeleven.tex [528] [529
+[517] [518] [519] [520] [521] [522] [523] [524] [525] [526]) (modeleven.tex
+[527] [528
 
-]
-[530
+] [529
 
-] [531] [532] [533] [534] [535] [536] [537] [538] [539] [540] [541]
-[542] [543] [544] [545] [546]) [547] [548] [549
+] [530] [531] [532] [533] [534] [535] [536] [537] [538]
+[539] [540] [541] [542] [543] [544] [545]) [546] [547] [548
 
-] (commonbiases.tex [550
+] (commonbiases.tex
+[549
 
-]
-[551] [552] [553] [554] [555] [556] [557] [558] [559]
+] [550] [551] [552] [553] [554] [555] [556] [557] [558]
 Underfull \hbox (badness 10000) in paragraph at lines 90--90
 []|\OT1/cmr/bx/n/10.95 Brain and Com-
  []
@@ -3752,13 +3739,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--102
 \OT1/cmr/m/n/10.95 on pur-chas-ing
  []
 
-[560] [561] [562] [563] [564] [565] [566] [567] [568] [569] [570] [571])
-[572] (IntroToPhil.gls [573
+[559] [560] [561] [562] [563] [564] [565] [566] [567] [568] [569] [570])
+[571] (IntroToPhil.gls [572
 
 
-] [574]) [575] [576
+] [573]) [574] [575
 
-] [577] [578]
+] [576] [577]
 Underfull \hbox (badness 10000) in paragraph at lines 34--34
 []\OT1/cmr/m/n/10.95 Newell, Allen. \  Phys-i-cal Sym-bol Sys-tems*." \OT1/cmr/
 m/it/10.95 Cog-ni-
@@ -3781,14 +3768,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--34
 \OT1/cmr/m/n/10.95 https://doi.org/[][]$https : / / doi . org / 10 . 1207 /
  []
 
-[579] [580] [581])
+[578] [579] [580])
 
 Class memoir Warning: The material used in the headers is too large
 (27.2pt) for the given head height (13.6pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 71.
+(in both cases you will find help in the memoir manual). on input line 72.
 
-[582]
+[581]
 \tf@toc=\write10
 \openout10 = `IntroToPhil.toc'.
 
@@ -3805,9 +3792,9 @@ Package logreq Info: Writing requests to 'IntroToPhil.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 59360 strings out of 477843
- 1147876 string characters out of 2823599
- 1994665 words of memory out of 3000000
+ 59359 strings out of 477843
+ 1147868 string characters out of 2823599
+ 1994667 words of memory out of 3000000
  75757 multiletter control sequences out of 15000+600000
  529961 words of font info for 160 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3838,9 +3825,9 @@ pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb
 8a.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/u
 hvr8a.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helveti
 c/uhvro8a.pfb>
-Output written on IntroToPhil.pdf (593 pages, 1936776 bytes).
+Output written on IntroToPhil.pdf (592 pages, 1935381 bytes).
 PDF statistics:
- 4464 PDF objects out of 5155 (max. 8388607)
- 1482 named destinations out of 1728 (max. 500000)
+ 4460 PDF objects out of 5155 (max. 8388607)
+ 1481 named destinations out of 1728 (max. 500000)
  593 words of extra memory for PDF output out of 10000 (max. 10000000)
 
