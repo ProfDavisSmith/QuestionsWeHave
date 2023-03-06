@@ -3,7 +3,7 @@
 ## Description
 
 Questions We Have by Davis Smith is, for the most part, an original introduction to Philosophy textbook. It consists of eleven (11) Modules (sections or parts) 
-which each handle adiferent philosophical question a person may have wondered about. Aside from the in depth discussions of the various topics which Davis Smith 
+which each handle a different philosophical question a person may have wondered about. Aside from the in depth discussions of the various topics which Davis Smith 
 provides, there are 10 primary source works which are reprinted into this text. The questions discussed span from the abstract, such as the purpose of Philosophy, 
 to the concrete, like our moral duties to other people and animals. The primary sources used are, in order:
 
