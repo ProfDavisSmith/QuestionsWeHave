@@ -12,7 +12,7 @@ to the concrete, like our moral duties to other people and animals. The primary 
 3. The Mind-Body Problem by Tim Crane
 4. Minds, Brains and Programs by John Searle
 5. Are Libertarianism and Physicalism Compatible? by Davis Smith
-6. Are Dualism and Physicalism Compatible? by Davis Smith
+6. Are Dualism and Libertarianism Compatible? by Davis Smith
 7. Meditations on First Philosophy by René Descartes
 8. The Challenge of Cultural Relativism by James Rachels
 9. The Moral Status of Bloodbending by Davis Smith
