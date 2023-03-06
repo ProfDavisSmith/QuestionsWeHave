@@ -31,8 +31,7 @@ accessible to all people. The cost and quality of textbooks are under-discussed 
 - [ ] [forallx: R<sup>3</sup>](https://github.com/ProfDavisSmith/forallxR3/blob/main/forallxd.pdf) A Remixed, Revised, and Reimagined Introduction to Formal Logic
 - [ ] Who Should I Be? What Should I Do? An Introduction to Ethics 
 
-Outside of his OER textbooks,
-His current projects relate to the plausibility of libertarian free will, the philosophy of rhyme, and the philosophy of profanity.
+Outside of his OER textbooks, his current projects relate to the plausibility of libertarian free will, the philosophy of rhyme, and the philosophy of profanity.
 
 ## Download 
 You can download PDFs of the **most current version under development** here:
