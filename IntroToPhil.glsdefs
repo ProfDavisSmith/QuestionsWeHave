@@ -502,3 +502,647 @@ parent={},%
 %
 }%
 
+\glsdefs@newdocentry{Problem of Evil}%
+{%
+name={Problem of Evil},%
+sort={Problem of Evil},%
+type={main},%
+first={Problem of Evil},%
+firstplural={Problems of Evil},%
+text={Problem of Evil},%
+plural={Problems of Evil},%
+description={An argument against the existence of God which points to the pain and suffering on the Earth and asks how an all-knowing, all-powerful, and all-good god could allow for such a thing},%
+descriptionplural={An argument against the existence of God which points to the pain and suffering on the Earth and asks how an all-knowing, all-powerful, and all-good god could allow for such a thing},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{man-made evil}%
+{%
+name={man-made evil},%
+sort={man-made evil},%
+type={main},%
+first={man-made evil},%
+firstplural={man-made evils},%
+text={man-made evil},%
+plural={man-made evils},%
+description={The pain and suffering and otherwise `bad' things which human persons do through free will},%
+descriptionplural={The pain and suffering and otherwise `bad' things which human persons do through free will},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{natural evil}%
+{%
+name={natural evil},%
+sort={natural evil},%
+type={main},%
+first={natural evil},%
+firstplural={natural evils},%
+text={natural evil},%
+plural={natural evils},%
+description={The pain and suffering and otherwise `bad' thingswhich are caused by natural processes of the world, not caused by human free action},%
+descriptionplural={The pain and suffering and otherwise `bad' thingswhich are caused by natural processes of the world, not caused by human free action},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{epistemology}%
+{%
+name={epistemology},%
+sort={epistemology},%
+type={main},%
+first={epistemology},%
+firstplural={epistemologys},%
+text={epistemology},%
+plural={epistemologys},%
+description={A field of study within Philosophy dedicated to questions concerning knowledge, belief, and justification},%
+descriptionplural={A field of study within Philosophy dedicated to questions concerning knowledge, belief, and justification},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{skepticism}%
+{%
+name={skepticism},%
+sort={skepticism},%
+type={main},%
+first={skepticism},%
+firstplural={skepticisms},%
+text={skepticism},%
+plural={skepticisms},%
+description={The epistemological stance that knowledge is impossible either globally (it is impossible to know anything at all) or locally (knowledge is impossible within certain topics)},%
+descriptionplural={The epistemological stance that knowledge is impossible either globally (it is impossible to know anything at all) or locally (knowledge is impossible within certain topics)},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{knowledge}%
+{%
+name={knowledge},%
+sort={knowledge},%
+type={main},%
+first={knowledge},%
+firstplural={knowledges},%
+text={knowledge},%
+plural={knowledges},%
+description={Justified True Belief; You have good reason to believe it, you do believe it, and your belief is, in fact, accurate},%
+descriptionplural={Justified True Belief; You have good reason to believe it, you do believe it, and your belief is, in fact, accurate},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{justification}%
+{%
+name={justification},%
+sort={justification},%
+type={main},%
+first={justification},%
+firstplural={justifications},%
+text={justification},%
+plural={justifications},%
+description={The reasons one has to believe something, why they think it is true},%
+descriptionplural={The reasons one has to believe something, why they think it is true},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{foundationalism}%
+{%
+name={foundationalism},%
+sort={foundationalism},%
+type={main},%
+first={foundationalism},%
+firstplural={foundationalisms},%
+text={foundationalism},%
+plural={foundationalisms},%
+description={The stance in Epistemology concerning justification which states that in order to know something the justification necessary must be structured in such a way as they fundamentally rely on basic, foundational beliefs which are self-evident and do not need further justification. The structure is often compared to a pyramid or a building},%
+descriptionplural={The stance in Epistemology concerning justification which states that in order to know something the justification necessary must be structured in such a way as they fundamentally rely on basic, foundational beliefs which are self-evident and do not need further justification. The structure is often compared to a pyramid or a building},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{infinite regress theory}%
+{%
+name={infinite regress theory},%
+sort={infinite regress theory},%
+type={main},%
+first={infinite regress theory},%
+firstplural={Infinite Regress Theory},%
+text={infinite regress theory},%
+plural={Infinite Regress Theory},%
+description={The stance in Epistemology concerning justificaton that all beliefs must be justified, there can be no `foundational' beliefs but also beliefs cannot indirectly justify themselves. The structure is like an infinitely long chain of branching beliefs},%
+descriptionplural={The stance in Epistemology concerning justificaton that all beliefs must be justified, there can be no `foundational' beliefs but also beliefs cannot indirectly justify themselves. The structure is like an infinitely long chain of branching beliefs},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{coherentism}%
+{%
+name={coherentism},%
+sort={coherentism},%
+type={main},%
+first={coherentism},%
+firstplural={coherentisms},%
+text={coherentism},%
+plural={coherentisms},%
+description={The stance in Epistemology concerning justificaton that all beliefs must be justified, there can be no `foundational' beliefs. For this theory, it is necessary that some beliefs indirectly justify themselves. For this theory, beliefs are justified in how they cohere or fit together. The structure is like a spider web or loosely woven fabric},%
+descriptionplural={The stance in Epistemology concerning justificaton that all beliefs must be justified, there can be no `foundational' beliefs. For this theory, it is necessary that some beliefs indirectly justify themselves. For this theory, beliefs are justified in how they cohere or fit together. The structure is like a spider web or loosely woven fabric},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{meta-}%
+{%
+name={meta-},%
+sort={meta-},%
+type={main},%
+first={meta-},%
+firstplural={meta-s},%
+text={meta-},%
+plural={meta-s},%
+description={a prefix which changes the level of abstraction for the questions in the field, namely by moving it up. This means, roughly, `asking questions about the questions in...'},%
+descriptionplural={a prefix which changes the level of abstraction for the questions in the field, namely by moving it up. This means, roughly, `asking questions about the questions in...'},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{realism}%
+{%
+name={realism},%
+sort={realism},%
+type={main},%
+first={realism},%
+firstplural={realisms},%
+text={realism},%
+plural={realisms},%
+description={The stance that there are facts in a given topic. In other words, the stance that the facts are `real'},%
+descriptionplural={The stance that there are facts in a given topic. In other words, the stance that the facts are `real'},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{nihilism}%
+{%
+name={nihilism},%
+sort={nihilism},%
+type={main},%
+first={nihilism},%
+firstplural={nihilisms},%
+text={nihilism},%
+plural={nihilisms},%
+description={The stance that there are no facts in a given topic. In other words, the stance that the facts aren't `real', there is nothing true or accurate to be said about it. The name for this stance comes from the Latin word `nihil' meaning `nothing'},%
+descriptionplural={The stance that there are no facts in a given topic. In other words, the stance that the facts aren't `real', there is nothing true or accurate to be said about it. The name for this stance comes from the Latin word `nihil' meaning `nothing'},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{relativism}%
+{%
+name={relativism},%
+sort={relativism},%
+type={main},%
+first={relativism},%
+firstplural={relativisms},%
+text={relativism},%
+plural={relativisms},%
+description={The stance that there are facts in a given topic but those facts are variable, they change according to the culture, context, or individual. In philosophy, generally, the facts change according to either what the individual believes or the culture in question believes, depending on the form of relativism held},%
+descriptionplural={The stance that there are facts in a given topic but those facts are variable, they change according to the culture, context, or individual. In philosophy, generally, the facts change according to either what the individual believes or the culture in question believes, depending on the form of relativism held},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{moral relativism}%
+{%
+name={moral relativism},%
+sort={moral relativism},%
+type={main},%
+first={moral relativism},%
+firstplural={moral relativisms},%
+text={moral relativism},%
+plural={moral relativisms},%
+description={{The stance that there are facts about morality, that is there are standards of right and wrong, but those facts are variable, they change according to the beliefs of culture or individual in question (which depends on the form of Moral Relativism claimed to be true)} plural},%
+descriptionplural={{The stance that there are facts about morality, that is there are standards of right and wrong, but those facts are variable, they change according to the beliefs of culture or individual in question (which depends on the form of Moral Relativism claimed to be true)} plural},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{error theory}%
+{%
+name={error theory},%
+sort={error theory},%
+type={main},%
+first={error theory},%
+firstplural={Error Theorist},%
+text={error theory},%
+plural={Error Theorist},%
+description={A general claim that all other claims within a field of study or context will always be mistaken, try as we might to say something truthful, we cannot because there are no truths in that area or context},%
+descriptionplural={A general claim that all other claims within a field of study or context will always be mistaken, try as we might to say something truthful, we cannot because there are no truths in that area or context},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{expressivism}%
+{%
+name={expressivism},%
+sort={expressivism},%
+type={main},%
+first={expressivism},%
+firstplural={expressivist},%
+text={expressivism},%
+plural={expressivist},%
+description={A general claim that all other claims within a field of study or context are not intended to and do not express anything true or false, rather those claims are expressing emotions, commands, or questions. In ethics, saying something is wrong, according to this stance, is the same as saying something like `boo' and saying that something is right is the same as saying `yay'},%
+descriptionplural={A general claim that all other claims within a field of study or context are not intended to and do not express anything true or false, rather those claims are expressing emotions, commands, or questions. In ethics, saying something is wrong, according to this stance, is the same as saying something like `boo' and saying that something is right is the same as saying `yay'},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{consequentialism}%
+{%
+name={consequentialism},%
+sort={consequentialism},%
+type={main},%
+first={consequentialism},%
+firstplural={consequentialists},%
+text={consequentialism},%
+plural={consequentialists},%
+description={The general stance that the morality or permissibility of an action is determined by the consequences of that action. This is a family of theories which all share the basic command to promote the good, though they differ on what the good is and how one ought to promote it},%
+descriptionplural={The general stance that the morality or permissibility of an action is determined by the consequences of that action. This is a family of theories which all share the basic command to promote the good, though they differ on what the good is and how one ought to promote it},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{non-consequentialism}%
+{%
+name={non-consequentialism},%
+sort={non-consequentialism},%
+type={main},%
+first={non-consequentialism},%
+firstplural={non-consequentialists},%
+text={non-consequentialism},%
+plural={non-consequentialists},%
+description={The general stance that the morality or permissibility of an action is not determined by the consequences of that action. This is a family of theories which all share the basic idea that some actions are just wrong regardless of the good they might (will) produce; typically, these theories are duty-based, meaning that an action is moral if and only if you have a duty to do it and immoral if and only if you have a duty to refrain from doing it},%
+descriptionplural={The general stance that the morality or permissibility of an action is not determined by the consequences of that action. This is a family of theories which all share the basic idea that some actions are just wrong regardless of the good they might (will) produce; typically, these theories are duty-based, meaning that an action is moral if and only if you have a duty to do it and immoral if and only if you have a duty to refrain from doing it},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{utilitarianism}%
+{%
+name={utilitarianism},%
+sort={utilitarianism},%
+type={main},%
+first={utilitarianism},%
+firstplural={Utilitarian},%
+text={utilitarianism},%
+plural={Utilitarian},%
+description={A form of Consequentialism which says that the morality of our actions is determined by the amount of happiness caused and suffering prevented. This is a form of Direct Consequentialism which takes happiness as the intrinsic good and suffering as the intrinsic bad},%
+descriptionplural={A form of Consequentialism which says that the morality of our actions is determined by the amount of happiness caused and suffering prevented. This is a form of Direct Consequentialism which takes happiness as the intrinsic good and suffering as the intrinsic bad},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{kantianism}%
+{%
+name={kantianism},%
+sort={kantianism},%
+type={main},%
+first={kantianism},%
+firstplural={Kant's Moral Theory},%
+text={kantianism},%
+plural={Kant's Moral Theory},%
+description={The philosophical theories proposed and defended by Immanual Kant},%
+descriptionplural={The philosophical theories proposed and defended by Immanual Kant},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{good will}%
+{%
+name={good will},%
+sort={good will},%
+type={main},%
+first={good will},%
+firstplural={Good Will},%
+text={good will},%
+plural={Good Will},%
+description={The one intrinsic good according to Kant's non-consequentialist theory of morality. All rational autonomous people have this `good will'. It comes from our ability to rationally and freely choose to act on our duties. According to Kantianism, anything which thwarts or hinders either another's free will or ratonality is wrong},%
+descriptionplural={The one intrinsic good according to Kant's non-consequentialist theory of morality. All rational autonomous people have this `good will'. It comes from our ability to rationally and freely choose to act on our duties. According to Kantianism, anything which thwarts or hinders either another's free will or ratonality is wrong},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{maxim}%
+{%
+name={maxim},%
+sort={maxim},%
+type={main},%
+first={maxim},%
+firstplural={maxims},%
+text={maxim},%
+plural={maxims},%
+description={The reason and goal for which you are acting. This is typically of the form ``whenever I am A then I will E''},%
+descriptionplural={The reason and goal for which you are acting. This is typically of the form ``whenever I am A then I will E''},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+

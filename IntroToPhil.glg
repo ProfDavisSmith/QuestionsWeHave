@@ -1,7 +1,7 @@
-This is makeindex, version 2.16 [TeX Live 2022] (kpathsea + Thai support).
-Scanning style file ./IntroToPhil.ist.............................done (29 attributes redefined, 0 ignored).
-Scanning input file IntroToPhil.glo....done (26 entries accepted, 0 rejected).
-Sorting entries....done (132 comparisons).
-Generating output file IntroToPhil.gls....done (57 lines written, 0 warnings).
+This is makeindex, version 2.16 [MiKTeX 23.1].
+Scanning style file ./IntroToPhil.ist...........................done (27 attributes redefined, 0 ignored).
+Scanning input file IntroToPhil.glo....done (50 entries accepted, 0 rejected).
+Sorting entries....done (307 comparisons).
+Generating output file IntroToPhil.gls....done (111 lines written, 0 warnings).
 Output written in IntroToPhil.gls.
 Transcript written in IntroToPhil.glg.
