@@ -61,3 +61,6 @@ suggests the licensor endorses you or your use.
 - [ ] You may not apply legal terms or technological measures
 that legally restrict others from doing anything the license
 permits.
+
+## Funding
+The production of this work was made possible by Professional Development funds provided by [Pierce College's Employee Learning and Development (ELAD)](https://www.pierce.ctc.edu/elad).
