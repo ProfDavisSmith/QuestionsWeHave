@@ -46,6 +46,7 @@ You can download PDFs of the **most current version under development** here:
 - [ ] The two papers by Davis Smith concerning Libertarianism
 will be merged into one.
 - [ ] More glossary entries and definitions will be added.
+- [ ] Content from Muslim Philosophers will be added (integrated into multiple sections, likely al-Kindi, Ibn Sina, and al-Ghazali).
 - [ ] Content for Mohist Epistemology/Philosophy will be added (likely as additional content in several places). 
 - [ ] Content for Nahuatl Philosophy will be added (Universal Monism, likely in the Existence of God sections).
 - [ ] Content for Indian Philosophy will be added.
