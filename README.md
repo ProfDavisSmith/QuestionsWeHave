@@ -4,7 +4,7 @@
 
 Questions We Have by Davis Smith is, for the most part, an original introduction to Philosophy textbook. It consists of eleven (11) Modules (sections or parts) 
 which each handle a different philosophical question a person may have wondered about. Aside from the in depth discussions of the various topics which Davis Smith 
-provides, there are 10 primary source works which are reprinted into this text. The questions discussed span from the abstract, such as the purpose of Philosophy, 
+provides, there are 11 primary source works which are reprinted into this text (future editions will reduce this to 10 by merging the Libertarianism papers by Davis Smith). The questions discussed span from the abstract, such as the purpose of Philosophy, 
 to the concrete, like our moral duties to other people and animals. The primary sources used are, in order:
 
 1. Plato’s Apology
@@ -24,7 +24,7 @@ Currently, it is made for an eleven week course, with the final module (part or 
 
 ## About the Author
 
-Davis Smith earned his Master’s Degree in Philosophy from Arizona State University and is an adjunct Philosophy professor at two colleges, Pierce College and Bellevue College. 
+Davis Smith earned his Master’s Degree in Philosophy from Arizona State University and is an adjunct Philosophy professor at two colleges, Pierce College, Bellevue College, and Olympic College. 
 He specializes in teaching introductory level courses. One of his goals in teaching is to make Philosophy
 accessible to all people. The cost and quality of textbooks are under-discussed obstacles to accessibility which Mr. Smith seeks to remove. His other textbooks are: 
 
