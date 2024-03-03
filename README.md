@@ -68,4 +68,4 @@ that legally restrict others from doing anything the license
 permits.
 
 ## Funding
-The production of this work was made possible by Professional Development funds provided by [Pierce College's Employee Learning and Development (ELAD)](https://www.pierce.ctc.edu/elad).
+The production of the 2022 edition of this work was made possible by Professional Development funds provided by [Pierce College's Employee Learning and Development (ELAD)](https://www.pierce.ctc.edu/elad).
