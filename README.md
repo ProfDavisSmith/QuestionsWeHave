@@ -38,7 +38,7 @@ You can download PDFs of the **most current version under development** here:
 
 - [`IntroToPhil.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhil.pdf)
   This is the default, basic edition.
-- [`IntroToPhilaccess5.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilaccess45.pdf)
+- [`IntroToPhilaccess5.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilaccess5.pdf)
   This is the accessible version of the 2024 (latest) edition e-readers and other applications.
 - [`IntroToPhilaccess4.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilaccess4.pdf)
   This is the accessible version of the 2023 edition e-readers and other applications.
