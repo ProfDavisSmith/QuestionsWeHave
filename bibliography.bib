@@ -1,7 +1,8 @@
 \usepackage[style=mla,backend=biber]{biblatex}
 
-
 \begin{filecontents}{bibliography.bib}
+\usebibmacro{related}
+
 %Thomson, Judith Jarvis. “A Defense of Abortion.” Philosophy & Public Affairs, vol. 1, no. 1, 1971, pp. 47–66. JSTOR, www.jstor.org/stable/2265091. Accessed 27 Feb. 2020.
 @article{Thomson1,
    author={Thomson, Judith Jarvis},
@@ -65,7 +66,7 @@
 
  @misc{tedtalksdirector2013, title={Could we speak the language of dolphins? | Denise Herzing}, url={https://www.youtube.com/watch?v=CQ5dRyyHwfM}, journal={YouTube}, publisher={YouTube}, author={TEDtalksDirector}, year={2013}, month={6}} 
 
- @misc{extrahistory2012, title={The uncanny valley - why more realistic characters look less human - extra credits}, url={https://www.youtube.com/watch?v=9K1Kd9mZL8g}, journal={YouTube}, publisher={YouTube}, author={extrahistory}, year={2012}, month={5}} 
+ @misc{extrahistory2012, title={The uncanny valley - why more realistic characters look less human - extra credits}, url={https://www.youtube.com/watch?v=9K1Kd9mZL8g}, journal={YouTube}, publisher={YouTube}, author={Extra History}, year={2012}, month={5}} 
 
  @misc{Curtis1, title={What are the fallacy files?}, url={https://www.fallacyfiles.org/whatarff.html}, journal={What are the Fallacy Files?}, author={Curtis, Gary}} 
 
@@ -79,6 +80,16 @@
 	pages = {3}
 }
 
+@article{Stich1, title={Cognition and content in nonhuman species}, volume={1}, DOI={10.1017/S0140525X00076998}, number={4}, journal={Behavioral and Brain Sciences}, author={Stich, Stephen P.}, year={1978}, pages={604–605}} 
+@incollection{Searle2,
+	author = {John R. Searle},
+	booktitle = {Meaning and Use},
+	editor = {A. Margalit},
+	pages = {181--197},
+	publisher = {Reidel},
+	title = {Intentionality and the Use of Language},
+	year = {1979}
+}
 
 @Article{Rouzati1,
 AUTHOR = {Rouzati, Nasrin},
@@ -94,6 +105,101 @@ ABSTRACT = {This paper sheds light on the treatment of the ‘problem of evil’
 DOI = {10.3390/rel9020047}
 }
 
+@InCollection{alkindi1,
+	author       =	{Adamson, Peter},
+	title        =	{{al-Kindi}},
+	booktitle    =	{The {Stanford} Encyclopedia of Philosophy},
+	editor       =	{Edward N. Zalta and Uri Nodelman},
+	howpublished =	{\url{https://plato.stanford.edu/archives/sum2024/entries/al-kindi/}},
+	year         =	{2024},
+	edition      =	{{S}ummer 2024},
+	publisher    =	{Metaphysics Research Lab, Stanford University}
+}
+
+@InCollection{alkindi2,
+	author       =	{al-Kindi, Ya'qub ibn Ishaq},
+	title        =	{{On First Philosopy}},
+	booktitle    =	{al-Kindi's Metaphysics},
+	translator       =	{Alfred L. Ivry},
+	year         =	{1974},
+	publisher    =	{State University of New York Press}
+}
+
+@book{alghazali1,
+	author = {al-Ghazali, Ab\=u H\=amid Muḥammad ibn Muḥammad al-T\=usiyy},
+	title = {Tahafut al-Falasifah (The Incoherence of Philosophers)},
+	year = {1963},
+	translator = {Sabih Ahmad Kamali},
+	publisher = {Pakistan Philosophical Congress}
+}
+@book{Goodman1,
+	address = {Ithaca},
+	author = {Lenn Evan Goodman},
+	editor = {},
+	publisher = {Routledge},
+	title = {Avicenna},
+	year = {1992},
+	related = {Rahman1},
+		relatedtype = {translationof}
+}
+%Rahman, F. Avicenna’s De Anima: Being the Psychological Part of the Kitāb Al-Shifā. Durham University Press, 1959.
+@book{Rahman1,
+	author = {Rahman, F.},
+	editor = {},
+	publisher = { Durham University Press},
+	title = { Avicenna’s De Anima: Being the Psychological Part of the Kitāb Al-Shifā},
+	year = {1959},
+	related = {Goodman1},
+		relatedtype = {translatedas}
+	}
+
+@book{Chisholm1,
+	address = {Englewood Cliffs, N.J.,},
+	author = {Roderick M. Chisholm},
+	editor = {},
+	publisher = {Prentice-Hall},
+	title = {Theory of Knowledge},
+	year = {1989},
+	edition = {Third}
+}
+
+@book{RuthBenedict1,
+	address = {Boston},
+	author = {Ruth Benedict},
+	editor = {},
+	publisher = {Houghton Mifflin},
+	title = {Patterns of Culture},
+	year = {1934}
+}
+
+
+@video{Futurama1,
+title = {Rosewell That Ends Well},
+publisher = {20th Television},
+date = {2001},
+maintitle = {Futurama},
+namea = {Matt Groening},
+nameatype = {creator},
+nameb = {J. Stewart Burns},
+namebtype = {author},
+namec = {Rich Moore},
+namectype = {director},
+number = {19},
+season = {3}}
+
+@article{Gettier1,
+	author = {Edmund Gettier},
+	doi = {10.1093/analys/23.6.121},
+	journal = {Analysis},
+	number = {6},
+	pages = {121--123},
+	publisher = {Analytica},
+	title = {Is Justified True Belief Knowledge?},
+	volume = {23},
+	year = {1963}
+}
+
+
 @incollection{Plantinga1,
 	publisher = {Ithaca: Cornell University Press},
 	year = {1965},
@@ -107,16 +213,19 @@ DOI = {10.3390/rel9020047}
 @book{Descartes1,
 	title = {Meditations on First Philosophy},
 	author = {Ren\'e Descartes},
-	year = {1641},
-	publisher = {Caravan Books}
+	year = {1901},
+	translator = {John Veitch},
+	publisher = {M. Walter Dunne}
 }
 
 
-@unpublished{Leibniz1,
+@book{Leibniz1,
 	author = {Gottfried Wilhelm Leibniz},
-	publisher = {Bobbs-Merrill (Library of Liberal Arts)},
+	translator = {E. M. Huggard},
+	publisher = {Routledge \& Kegan Paul Limited, London},
 	title = {Theodicy},
-	year = {1966}
+	year = {1996},
+	URL = {https://www.gutenberg.org/cache/epub/17147/pg17147-images.html}
 }
 
 %Philosophical Essays. Edited and translated by Roger Ariew and Daniel Garber. Indianapolis: Hackett, 1989.
@@ -128,6 +237,60 @@ DOI = {10.3390/rel9020047}
 	editor={Roger Ariew and Daniel Garber},
 	title={Philosophical Essays}
 }
+
+@book{NortonSmith1,
+	title = {The Dance of Person and Place: One Interpretation of American Indian Philosophy},
+	publisher = {State University of New York Press},
+	year = {2010},
+	editor = {},
+	author = {Thomas M. Norton{-}Smith}
+}
+
+@book{Elisabeth1,
+	editor = {Lisa Shapiro},
+	translator = {Lisa Shapiro},
+	author = {Elisabeth, Princess of Bohemia and Ren\'e Descartes},
+	publisher = {University of Chicago Press},
+	title = {The Correspondence Between Princess Elisabeth of Bohemia and Ren\'e Descartes},
+	year = {2007}
+}
+
+
+@incollection{Burkhart1,
+	year = {2004},
+	booktitle = {American Indian Thought: Philosophical Essays},
+	editor = {Anne Waters},
+	publisher = {Blackwell (Oxford)},
+	author = {Burkhart, Brian Yazze},
+	pages = {15-26},
+	title={What Coyote and Thales can Teach Us: An Outline of American Indian Epistemology}
+}
+
+%Quine, W. and Ullian, J., 1970, The Web of Belief, New York: Random House.
+@book{Quine1,
+	author={W. Quine and J. Ullian},
+	year={1970},
+	title={The Web of Belief},
+	publisher={Random House}
+}
+
+@article{Hester1,
+	author={Lee Hester and Jim Cheney},
+	year={2001},
+	title={Truth and Native American Epistemology},
+	journal={Social Epistemology},
+	volume={4},
+	pages={319-334}
+}
+
+@book{Deloria1,
+	year = {1999},
+	title = {Spirit \& Reason: The Vine Deloria, Jr., Reader},
+	publisher = {Fulcrum Publishing},
+	author = {Vine Deloria},
+	editor = {B. Deloria and K. Foehner and S. Scinta}
+}
+
 
 @book{Augustine1,
 	title = {The Confessions},
@@ -428,6 +591,12 @@ season = {3}}
     origdate = {2011/2012},
     url = {https://www.youtube.com/watch?v=kIv3m2gMgUU}}
 
+@video{Extrahistory1,
+    Author = {Extra History},
+    title = {The History of Paper Money},
+    origdate = {2011/2012},
+    url = {https://www.youtube.com/watch?v=-nZkP2b-4vo}}
+
 @book{Sider,
     Author = {Sider, Theodore},
     Publisher = {Oxford University Press},
@@ -480,7 +649,7 @@ season = {3}}
 @article{Lewis1,
    author={Lewis, David},
    title={An argument for the identity theory.},
-   journal={ournal of Philosophy},
+   journal={Journal of Philosophy},
    volume={63},
    year={1966},
    pages={17-25}
@@ -590,16 +759,34 @@ Society, Supplementary Volume},
 	journal = {The Monist}
 }
 
-
-@unpublished{Pruss1,
-	author = {Alexander R. Pruss},
-	title = {I Was Once a Fetus: An Identity-Based Argument Against Abortion}
+@article{Brody1,
+	volume = {69},
+	number = {12},
+	title = {Abortion and the Law},
+	author = {B. A. Brody},
+	year = {1971},
+	pages = {357-69},
+	journal = {The Monist}
 }
 
 
+@Inbook{Pruss1,
+author={Pruss, Alexander R.},
+editor={Napier, Stephen"},
+title={I Was Once a Fetus: That Is Why Abortion Is Wrong},
+bookTitle={Persons, Moral Worth, and Embryos: A Critical Analysis of Pro-Choice Arguments},
+year={2011},
+publisher={Springer Netherlands},
+address={Dordrecht},
+pages={19-42},
+isbn={978-94-007-1602-5},
+doi={10.1007/978-94-007-1602-5_2},
+url={https://doi.org/10.1007/978-94-007-1602-5_2}
+}
+
 @incollection{Rachels1,
 	booktitle = {Exploring Philosophy: An Introductory Anthology},
-	year = {1907},
+	year = {2000},
 	editor = {Steven M. Cahn},
 	author = {James Rachels},
 	title = {The Challenge of Cultural Relativism},
@@ -833,7 +1020,9 @@ year = {1980}
     nameb = {Les Landau},
     namebtype = {director},
     title = {Half a Life},
+    maintitle={Star Trek: The Next Generation},
     season = {4},
+    number={22},
     publisher = {Paramount Domestic Television},
     origdate = {1991-05-04}}
 

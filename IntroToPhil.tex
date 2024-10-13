@@ -7,9 +7,14 @@
 \setulmargins{.6in}{*}{*}
 \setheaderspaces{*}{*}{1}
 \checkandfixthelayout
-\RequirePackage[a-1b]{pdfx}
-
-\usepackage{intro}
+\usepackage[pdftex]{hyperref}
+\hypersetup{pdfinfo={Title={Questions We Have}, Author={Davis A. Smith}, Subject={An Introduction to Philosophy}, Keywords={101, Introduction, Philosophy, Death, Mind-Body Problem, AI, Free Will, God, Knowledge, Epistemology, Ethics, Relativism}}, %
+  % bookmarks={true}, %
+  bookmarksopen = true,
+	colorlinks={true}, %
+	allcolors={dkleadbeater},
+	pdfdisplaydoctitle={true}}
+\urlstyle{same}
 \usepackage{intro-style}
 \usepackage{marginnote}
 \usepackage{chronology}
@@ -24,19 +29,16 @@
 \usepackage{wrapfig}
 \usepackage{xcolor}
 \usepackage{pagecolor}
-%\usepackage[tagged]{accessibility}
 \definecolor{philgreen}{RGB}{11,56,111}
-%\definecolor{philgreen}{RGB}{0,143,17}
 \definecolor{lyallpink}{RGB}{222,31,149}
 \colorlet{leadbeater}{philgreen}
 \colorlet{dkleadbeater}{philgreen!80!black}
 \colorlet{ltleadbeater}{philgreen!50}
 \colorlet{vltleadbeater}{philgreen!3}
 \DeclareUnicodeCharacter{FE01}{}
-%\DeclareUnicodeCharacter{ ''}{ ``}
-
-\usepackage{afterpage}
+\usepackage{nameref}
 %\usepackage[tagged]{accessibility}
+\usepackage{afterpage}
  
 \begin{document}
 
