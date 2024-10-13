@@ -1,24 +1,34 @@
 # Questions We Have
 ## Description 
-<img style="background-image;width:425px;height:550px" url="https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhil.pdf" src="https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/Questions%20We%20Have%20cover%20image%208.png" align="right"/><BR right/>
 Questions We Have by Davis Smith is, for the most part, an original introduction to Philosophy textbook. It consists of eleven (11) Modules (sections or parts) 
 which each handle a different philosophical question a person may have wondered about. Aside from the in depth discussions of the various topics which Davis Smith 
 provides, there are 11 primary source works which are reprinted into this text (future editions will reduce this to 10 by merging the Libertarianism papers by Davis Smith). The questions discussed span from the abstract, such as the purpose of Philosophy, 
-to the concrete, like our moral duties to other people and animals. The primary sources used are, in order:
-1. Plato’s Apology
-2. Death by Thomas Nagel
-3. The Mind-Body Problem by Tim Crane
-4. Minds, Brains and Programs by John Searle
-5. Are Libertarianism and Physicalism Compatible? by Davis Smith
-6. Are Dualism and Libertarianism Compatible? by Davis Smith
-7. Meditations on First Philosophy by René Descartes
-8. The Challenge of Cultural Relativism by James Rachels
-9. The Moral Status of Bloodbending by Davis Smith
-10. The Moral and Legal Status of Abortion by Mary Warren
-11. I Was Once a Fetus by Alexander Pruss
+to the concrete, like our moral duties to other people and animals. The questions discussed and primary sources included are, in order:<img style="background-image;width:500px;height:625px" url="https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhil.pdf" src="https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/Questions%20We%20Have%20cover%20image%208.png" align="right"/><BR right/>
+1. What is Philosophy?
+   * Plato's Apology
+3. Is Death Bad For The Person Who Died?
+   * Death by Thomas Nagel
+5. What is the Mind? What is the Body?
+   * The Mind-Body Problem by Tim Crane
+   * Minds, Brains and Programs by John Searle
+7. Do We Have Free Will? What Is It?
+   * Are Libertarianism and Physicalism Compatible? by Davis Smith
+   * Are Dualism and Libertarianism Compatible? by Davis Smith
+9. Does God Exist? If So, Why Is There Evil?
+10. What is Knowledge? How Do We Know Things?
+    * Meditations on First Philosophy by René Descartes
+12. Is Morality Culturally Relative?
+    * The Challenge of Cultural Relativism by James Rachels
+14. How Should I Act?
+    * The Moral Status of Bloodbending by Davis Smith
+16. What About Real World Cases? (The Abortion Debate)
+    * The Moral and Legal Status of Abortion by Mary Warren
+    * I Was Once a Fetus by Alexander Pruss
+18. What About Duties to Animals and Future People?
+19. What is Justice? What is Equality?
 
 This work is under **perpetual** development and may change with time. As it sits now, it is a fully functional textbook which is being used at Pierce College, Olympic College, and Bellevue College. 
-Currently, it is made for an eleven week course, with the final module (part or section) not being used for a ten week course.
+Currently, it is made for an eleven week course, with the final module (part or section) not being used for a ten week course. 
 
 ## About the Author
 
