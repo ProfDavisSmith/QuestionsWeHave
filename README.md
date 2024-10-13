@@ -19,7 +19,7 @@ to the concrete, like our moral duties to other people and animals. The primary 
 10. The Moral and Legal Status of Abortion by Mary Warren
 11. I Was Once a Fetus by Alexander Pruss
 
-This work is under **perpetual** development and may change with time. As it sits now, it is a fully functional textbook which is being used at Pierce College and at Bellevue College. 
+This work is under **perpetual** development and may change with time. As it sits now, it is a fully functional textbook which is being used at Pierce College, Olympic College, and Bellevue College. 
 Currently, it is made for an eleven week course, with the final module (part or section) not being used for a ten week course. 
 
 ## About the Author
@@ -38,8 +38,10 @@ You can download PDFs of the **most current version under development** here:
 
 - [`IntroToPhil.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhil.pdf)
   This is the default, basic edition.
+- [`IntroToPhilaccess6.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilaccess6.pdf)
+  This is the accessible version of the Winter 2025 edition for e-readers and other applications.
 - [`IntroToPhilaccess5.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilaccess5.pdf)
-  This is the accessible version of the 2024 (latest) edition e-readers and other applications.
+  This is the accessible version of the Fall 2024 edition e-readers and other applications.
 - [`IntroToPhilaccess4.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilaccess4.pdf)
   This is the accessible version of the 2023 edition e-readers and other applications.
 - [`IntroToPhilaccess3.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilaccess3.pdf)
