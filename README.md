@@ -47,10 +47,11 @@ You can download PDFs of the **most current version under development** here:
 
 ## Planned Future Modifications/Additions
 
-- [ ] The two papers by Davis Smith concerning Libertarianism
-will be merged into one.
-- [ ] More glossary entries and definitions will be added.
-- [ ] Content from Muslim Philosophers will be added (integrated into multiple sections, likely al-Kindi, Ibn Sina, and al-Ghazali).
+- [ ] The two papers by Davis Smith concerning Libertarianism will be merged into one.
+- [X] More glossary entries and definitions will be added.
+- [X] Content from Princess Elisabeth of Bohemia Will be added (added for Winter 2025).
+- [X] Content concerning Gettier Problems will be added (added for Winter 2025).
+- [X] Content from Muslim Philosophers will be added (integrated into multiple sections, likely al-Kindi, Ibn Sina, and al-Ghazali) (added for Winter 2025).
 - [ ] Content for Mohist Epistemology/Philosophy will be added (likely as additional content in several places). 
 - [ ] Content for Nahuatl Philosophy will be added (Universal Monism, likely in the Existence of God sections).
 - [ ] Content for Indian Philosophy will be added.
