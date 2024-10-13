@@ -1,12 +1,10 @@
 # Questions We Have
-
-## Description
-
+## Description 
+<img style="background-image;width:425px;height:550px" url="https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhil.pdf" src="https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/Questions%20We%20Have%20cover%20image%208.png" align="right"/><BR right/>
 Questions We Have by Davis Smith is, for the most part, an original introduction to Philosophy textbook. It consists of eleven (11) Modules (sections or parts) 
 which each handle a different philosophical question a person may have wondered about. Aside from the in depth discussions of the various topics which Davis Smith 
 provides, there are 11 primary source works which are reprinted into this text (future editions will reduce this to 10 by merging the Libertarianism papers by Davis Smith). The questions discussed span from the abstract, such as the purpose of Philosophy, 
 to the concrete, like our moral duties to other people and animals. The primary sources used are, in order:
-
 1. Plato’s Apology
 2. Death by Thomas Nagel
 3. The Mind-Body Problem by Tim Crane
@@ -20,7 +18,7 @@ to the concrete, like our moral duties to other people and animals. The primary 
 11. I Was Once a Fetus by Alexander Pruss
 
 This work is under **perpetual** development and may change with time. As it sits now, it is a fully functional textbook which is being used at Pierce College, Olympic College, and Bellevue College. 
-Currently, it is made for an eleven week course, with the final module (part or section) not being used for a ten week course. 
+Currently, it is made for an eleven week course, with the final module (part or section) not being used for a ten week course.
 
 ## About the Author
 
@@ -69,5 +67,8 @@ suggests the licensor endorses you or your use.
 that legally restrict others from doing anything the license
 permits.
 
+
 ## Funding
 The production of the 2022 edition of this work was made possible by Professional Development funds provided by [Pierce College's Employee Learning and Development (ELAD)](https://www.pierce.ctc.edu/elad).
+
+1
