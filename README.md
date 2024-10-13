@@ -3,7 +3,7 @@
 Questions We Have by Davis Smith is, for the most part, an original introduction to Philosophy textbook. It consists of eleven (11) Modules (sections or parts) 
 which each handle a different philosophical question a person may have wondered about. Aside from the in depth discussions of the various topics which Davis Smith 
 provides, there are 11 primary source works which are reprinted into this text (future editions will reduce this to 10 by merging the Libertarianism papers by Davis Smith). The questions discussed span from the abstract, such as the purpose of Philosophy, 
-to the concrete, like our moral duties to other people and animals. The questions discussed and primary sources included are, in order:<img style="background-image;width:500px;height:625px" url="https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhil.pdf" src="https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/Questions%20We%20Have%20cover%20image%208.png" align="right"/><BR right/>
+to the concrete, like our moral duties to other people and animals. The questions discussed and primary sources included are, in order:<img style="background-image;width:425px;height:550px" url="https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhil.pdf" src="https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/Questions%20We%20Have%20cover%20image%208.png" align="right"/><BR right/>
 1. What is Philosophy?
    * Plato's Apology
 3. Is Death Bad For The Person Who Died?
