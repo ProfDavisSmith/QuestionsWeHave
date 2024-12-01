@@ -44,7 +44,7 @@ Outside of his OER textbooks, his current projects relate to the plausibility of
 ## Download 
 You can download PDFs of the **most current version under development** here:
 
-- [`IntroToPhil.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhil.pdf)
+- [`IntroToPhil.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilcompressed.pdf)
   This is the default, basic edition.
 - [`IntroToPhilaccess6.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilaccess6.pdf)
   This is the accessible version of the Winter 2025 edition for e-readers and other applications.
