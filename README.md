@@ -12,8 +12,7 @@ to the concrete, like our moral duties to other people and animals. The question
    * The Mind-Body Problem by Tim Crane
    * Minds, Brains and Programs by John Searle
 7. Do We Have Free Will? What Is It?
-   * Are Libertarianism and Physicalism Compatible? by Davis Smith
-   * Are Dualism and Libertarianism Compatible? by Davis Smith
+   * Libertarianism and The Mind-Body Problem by Davis Smith
 9. Does God Exist? If So, Why Is There Evil?
 10. What is Knowledge? How Do We Know Things?
     * Meditations on First Philosophy by René Descartes
