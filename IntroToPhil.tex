@@ -1,3 +1,8 @@
+\DocumentMetadata{
+testphase =phase-III, % tagging with paragraph sec, toc, blocks and more
+pdfversion = 2.0, % pdfversion must be set here.
+pdfstandard=ua-2 % pdfstandard can be set too
+}
 \documentclass[openany,oneside,14pt]{memoir}
 \setstocksize{11in}{8.5in}
 \settrimmedsize{\stockheight}{\stockwidth}{*}
@@ -7,15 +12,15 @@
 \setulmargins{.6in}{*}{*}
 \setheaderspaces{*}{*}{1}
 \checkandfixthelayout
-\usepackage[pdftex]{hyperref}
-\hypersetup{pdfinfo={Title={Questions We Have}, Author={Davis A. Smith}, Subject={An Introduction to Philosophy}, Keywords={101, Introduction, Philosophy, Death, Mind-Body Problem, AI, Free Will, God, Knowledge, Epistemology, Ethics, Relativism}}, %
-  % bookmarks={true}, %
-  bookmarksopen = true,
-	colorlinks={true}, %
-	allcolors={dkleadbeater},
-	pdfdisplaydoctitle={true}}
-\urlstyle{same}
+ \DisemulatePackage{parskip}
+ \DisemulatePackage{setspace}
+ \usepackage{setspace}
+ \linespread{1.25}
+ \usepackage[skip=14pt]{parskip}
 \usepackage{intro-style}
+\usepackage{hyperref}
+%\usepackage{tagpdf}
+\tagpdfsetup{debug/parent-child-check=off,role/new-tag=part/H2,role/new-tag=chapter/H3,role/new-tag=section/H4,role/new-tag=subsection/H5,role/new-tag=subsubsection/H6,role/new-tag=paragraph/H7}
 \usepackage{marginnote}
 \usepackage{chronology}
 \usepackage[american]{babel}
@@ -30,21 +35,83 @@
 \usepackage{xcolor}
 \usepackage{pagecolor}
 \definecolor{philgreen}{RGB}{11,56,111}
+\definecolor{philfontgreen}{RGB}{47,131,193}
+\definecolor{philfontgold}{RGB}{249,169,44}
+
 \definecolor{lyallpink}{RGB}{222,31,149}
 \colorlet{leadbeater}{philgreen}
 \colorlet{dkleadbeater}{philgreen!80!black}
 \colorlet{ltleadbeater}{philgreen!50}
 \colorlet{vltleadbeater}{philgreen!3}
+\hypersetup{pdfinfo={Title={Questions We Have}, Author={Davis A. Smith}, Subject={An Introduction to Philosophy}, Keywords={101, Introduction, Philosophy, Death, Mind-Body Problem, AI, Free Will, God, Knowledge, Epistemology, Ethics, Relativism}}, %
+  % bookmarks={true}, %
+  bookmarksopen = true,
+	colorlinks={true}, %
+	allcolors={dkleadbeater},
+	pdfdisplaydoctitle={true}}
+\urlstyle{same}
 \DeclareUnicodeCharacter{FE01}{}
 \usepackage{nameref}
-%\usepackage[tagged]{accessibility}
-\usepackage{afterpage}
- 
-\begin{document}
 
-\begin{textblock*}{5.625in}(0pt,0pt)%
-\noindent\includegraphics*[height=11in]{Questions We Have cover image 8.png}
-\end{textblock*} 
+\usepackage{afterpage}
+\newcommand{\Achapter}[1]{\chapter{#1}}
+\renewcommand{\chapter}[1]{\Achapter{#1}}
+%\newcommand{\Asection}[1]{\section{#1}}
+%\renewcommand{\section}[1]{
+%\tagstructbegin{tag=H3}
+%\tagmcbegin{tag=H3} %avoid page break!
+%\Asection{#1}
+%\tagmcend
+%\tagstructend
+%}
+%\newcommand{\Asubsection}[1]{\subsection{#1}}
+%\renewcommand{\subsection}[1]{
+%\tagstructbegin{tag=H4}
+%\tagmcbegin{tag=H4} %avoid page break!
+%\Asubsection{#1}
+%\tagmcend
+%\tagstructend
+%}
+%\newcommand{\Asubsubsection}[1]{\subsubsection{#1}}
+%\renewcommand{\subsubsection}[1]{
+%\tagstructbegin{tag=H5}
+%\tagmcbegin{tag=H5} %avoid page break!
+%\Asubsubsection{#1}
+%\tagmcend
+%\tagstructend
+%}
+\newcounter{Hfootnote}
+\begin{document}
+\begin{textblock*}{8.5in}(0pt,0pt)%
+\noindent\includegraphics*[height=11in]{coveraltfont.png}
+\end{textblock*}s
+
+\begin{textblock*}{2in}(20pt,430pt)%
+\selectfont\color{philfontgold} \fontsize{20pt}{24pt}\textbf{Davis}
+\textbf{Smith}
+\selectfont\color{black}
+\end{textblock*}
+
+\begin{textblock*}{3in}(	12pt,210pt)%
+\selectfont\color{black} \fontsize{20pt}{24pt}\textbf{Questions}
+\textbf{We Have}
+\selectfont\color{black}
+\end{textblock*}
+
+
+\begin{textblock*}{3in}(	13pt,300pt)%
+\selectfont\color{philfontgold} \fontsize{20pt}{24pt}\textbf{An Introduction}
+
+\vspace{-14pt}\textbf{to Philosophy}
+\selectfont\color{black}
+\end{textblock*}
+
+
+\begin{textblock*}{2in}(100pt,595pt)%
+\selectfont\color{philfontgold}\fontsize{20pt}{24pt} \textbf{Fall 2025}
+\selectfont\color{black}
+\end{textblock*}
+
 %\begin{figure}[hbtp]\includegraphics[width=8.5in]{Questions We Have cover image 8.png}\end{figure}
 % Cover Page
 %\thispagestyle{empty}\pagecolor{philgreen}\afterpage{\nopagecolor}\begin{textblock*}{\stockwidth}(0in,3.5in)\end{textblock*}\begin{textblock*}{0in}(0in,0in)  \noindent\hfill  \begin{minipage}[b][\stockheight][s]{.95\stockwidth}    \begin{center}      \vspace*{1.5cm}
