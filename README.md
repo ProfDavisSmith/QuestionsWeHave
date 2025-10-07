@@ -57,7 +57,7 @@ You can download PDFs of the **most current version under development** here:
 
 ## Planned Future Modifications/Additions
 
-- [ ] The two papers by Davis Smith concerning Libertarianism will be merged into one.
+- [X] The two papers by Davis Smith concerning Libertarianism will be merged into one (added for Fall 2025).
 - [X] More glossary entries and definitions will be added.
 - [X] Content from Princess Elisabeth of Bohemia Will be added (added for Winter 2025).
 - [X] Content concerning Gettier Problems will be added (added for Winter 2025).
