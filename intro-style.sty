@@ -8,7 +8,8 @@
 \def\introversion{Fall 2022}
 \def\introshortversion{F22}
 
-\RequirePackage{hyperref,ifthen,graphicx,xcolor,amssymb}
+\RequirePackage{ifthen,graphicx,xcolor,amssymb}
+\RequirePackage{multicol,array}
 \usepackage[numbered]{bookmark} %TB: added for speedy navigation
 \usepackage[toc,style=list]{glossaries}
 %\usepackage{glossaries-extra}
@@ -39,6 +40,10 @@
 \renewcommand{\cftchapterpagefont}{\textrm}
 
 % Chapter style
+\newcounter{seccount}
+\setcounter{seccount}{1}
+\newcounter{chapcount}
+\setcounter{chapcount}{1}
 
 \newlength{\barlength}
 \setlength{\barlength}{400pt}
@@ -47,16 +52,16 @@
   \setlength{\beforechapskip}{50pt}
     \setlength{\midchapskip}{10pt}
   \renewcommand*{\afterchapternum}{\par\nobreak\vskip 0pt}
-  \renewcommand*{\chapnamefont}{\fontsize{14pt}{0pt}\selectfont\sffamily\bfseries}
-  \renewcommand*{\chapnumfont}{\fontsize{14pt}{0pt}\selectfont\sffamily\bfseries}
-  \renewcommand*{\chaptitlefont}{\normalfont\fontsize{48pt}{48pt}\selectfont\bfseries\itshape\color{leadbeater}}
+  \renewcommand*{\chapnamefont}{\fontsize{17pt}{0pt}\selectfont\sffamily\bfseries}
+  \renewcommand*{\chapnumfont}{\fontsize{17pt}{0pt}\selectfont\sffamily\bfseries}
+  \renewcommand*{\chaptitlefont}{\normalfont\fontsize{51pt}{51pt}\selectfont\bfseries\itshape\color{leadbeater}}
 \renewcommand*{\printchaptername}{%
  \chapnamefont\MakeUppercase{\@chapapp}}
-\renewcommand*{\printchaptertitle}[1]{%
- \chaptitlefont ##1\\[-\baselineskip]%
+\renewcommand*{\printchaptertitle}[1]{\chaptitlefont ##1\\[-\baselineskip]%
   \hspace*{-20pt}%
     \smash{\color{leadbeater}\rule{7pt}{\barlength}}}
 }
+
 
 \renewcommand*{\partnamefont}{\fontsize{24pt}{0pt}\selectfont\sffamily\bfseries}
 \renewcommand*{\partnumfont}{\fontsize{24pt}{0pt}\selectfont\sffamily\bfseries}
@@ -76,6 +81,34 @@
    {\small\sffamily\color{leadbeater}\leftmark}
 
 \usepackage[font={small,it}]{caption}
+
+
+%    ****************************************
+%    *          LIST  ENVIRONMENTS          *
+%    ****************************************
+% The {earg} environment is used for arguments and example sentences.
+% The {ekey} environment is used for symbolization keys.
+\newcounter{eargnum}[section]
+\newcounter{OLDeargnum}[section]
+\newenvironment{earg}%
+{\begin{list}{1.}{\usecounter{eargnum}\itemsep=0pt \parsep=0pt}}%
+{\setcounter{OLDeargnum}{\arabic{eargnum}}\end{list}}
+
+\newenvironment{ebullet}% TB: added to give a nice bulleted enivronment
+{\begin{list}{\textbullet}{\itemsep=0pt \parsep=0pt}}%
+{\end{list}}
+
+\newcommand{\ekeylabel}[1]{{\makebox[8ex][r]{\ensuremath{ #1}:}}}
+\newenvironment{ekey}{\begin{list}{}{\renewcommand{\makelabel}{\ekeylabel} \itemsep=0pt \parsep=0pt}}{\end{list}}
+
+\let\oldenumerate\enumerate% Keep a copy of \enumerate (or \begin{enumerate})
+\let\endoldenumerate\endenumerate% Keep a copy of \endenumerate (or \end{enumerate})
+\renewenvironment{enumerate}
+  {\begin{oldenumerate}
+     \setlength{\parskip}{0pt}}% Adjust \parskip to suit your needs
+  {\end{oldenumerate}}
+
+
 
 %    ****************************************
 %    *        TITLE AND VERSION DATA        *
@@ -119,11 +152,11 @@
 % Neither for lists nor an environment, but it really didn't
 % belong anywhere else.
 \usepackage[most]{tcolorbox}
-\newcommand{\factoidbox}[1]{\begin{factoidboxe}#1\end{factoidboxe}}
+\newcommand{\factoidbox}[1]{\begin{singlespace}\begin{factoidboxe}#1\end{factoidboxe}\end{singlespace}}
 \newenvironment{factoidboxe}{%
   \begin{tcolorbox}[%width=.9\textwidth,
       %      leftright skip=.05\textwidth,
-      sharp corners=downhill,
+      rounded corners=all,
       beforeafter skip=.7em,
       colframe={leadbeater},colback={vltleadbeater}]}{
 \end{tcolorbox}}
@@ -131,6 +164,26 @@
 
 % \tablefbox{...} is used in certain tables to put a box around the contents of specific table cells without having lines that run the whole length of the table
 \newcommand{\tablefbox}[1]{\multicolumn{1}{|p{10em}|}{#1}}
+
+\newcommand{\thoughtex}[4]{\begin{singlespace}\begin{tcolorbox}[enhanced,rounded corners=all, colframe={leadbeater},colback={vltleadbeater},title=\textbf{#1}]
+%\begin{center}
+%\paragraph{#1}
+%\end{center}
+	
+\setlength{\intextsep}{-2pt}%
+\setlength{\columnsep}{5pt}%
+	 \begin{wrapfigure}{r}{0cm}
+	 \includegraphics[width=2.5cm,alt={#4}]{#3}
+	 %\caption[alt text]{#4} 
+	 \end{wrapfigure}
+#2
+
+\end{tcolorbox}\end{singlespace}}
+
+\newenvironment{logicianboxe}{%
+  \begin{tcolorbox}[sharp corners=downhill, colframe={leadbeater},colback={vltleadbeater}]
+     }{
+\end{tcolorbox}}
 
 %    ****************************************
 %    *          PRACTICE PROBLEMS           *
@@ -191,10 +244,3 @@
 \newcommand\myanswer[1]{\textcolor{leadbeater}{#1}} % TB: puts model answers in blue
 
 % TB: information originally in the main body; but it is style information, so I have included it here.
-\hypersetup{pdfinfo={Title={forall x: $R^3$}, Author={Davis A. Smith, P.D. Magnus, Tim Button, J. Rob Loftis, Rob Trueman, Aaron Thomas-Bolduc, Richard Zach}, Subject={An open access introductory textbook in formal logic}, Keywords={truth-functional logic, propositional logic, predicate logic, first-order logic, natural deduction, Fitch}}, %
-  % bookmarks={true}, %
-  bookmarksopen = true,
-	colorlinks={true}, %
-	allcolors={dkleadbeater},
-	pdfdisplaydoctitle={true}}
-\urlstyle{same}
