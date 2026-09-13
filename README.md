@@ -42,9 +42,10 @@ Outside of his OER textbooks, his current projects relate to the plausibility of
 
 ## Download 
 You can download PDFs of the **most current version under development** here:
-
-- [`IntroToPhil.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilcompressed2.pdf)
-  This is the default, basic Fall 2025 edition, with improved accessibility features already included. As a note: There are currently developments within LaTeX itself to make the PDF tagged for accessibility upon being compiled. All I need is for those features to be compatible with the footnote package and all editions after that will be accessible by default.
+- [`IntroToPhil.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilcompressed3.pdf)
+  This is the default, basic Fall 2026 edition, with improved accessibility features already included. The LaTeX community is working to make accessibility default upon compiling and for simple article class documents, they have succeeded, but the memoir class has not been updated. So, once that is done, then this will be perfectly accessible with no additional work from me. 
+- [`IntroToPhilcompressed2.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilcompressed2.pdf)
+  This is the accessible version of the Fall 2025 edition for e-readers and other applications.
 - [`IntroToPhilaccess6.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilaccess6.pdf)
   This is the accessible version of the Winter 2025 edition for e-readers and other applications.
 - [`IntroToPhilaccess5.pdf`](https://github.com/ProfDavisSmith/QuestionsWeHave/blob/main/IntroToPhilaccess5.pdf)
